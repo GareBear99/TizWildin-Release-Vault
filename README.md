@@ -16,7 +16,6 @@
 > 📘 **[Facebook Page](https://www.facebook.com/profile.php?id=61564485196765)** — TizWildin / GareBearProductionz updates and Media  
 > 🗂️ **[Release Vault](https://garebear99.github.io/TizWildin-Release-Vault/)** — official monetized releases, distributed tracks, and catalog proof
 
-> 🗂️ **Release Vault Repo:** [https://github.com/GareBear99/TizWildin-Release-Vault](https://github.com/GareBear99/TizWildin-Release-Vault)
 
 **Official TizWildin / GareBearProductionz release vault** for monetized SoundCloud releases, distributed tracks, SoundCloud waveform banners, GitHub audio tools, YouTube visuals, Facebook updates, **FreeEQ8**, and **Voxel Audio**.
 
