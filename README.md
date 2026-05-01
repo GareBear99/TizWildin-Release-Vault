@@ -14,7 +14,7 @@
 > ▶️ **[YouTube](https://www.youtube.com/@gfgfvmhj)** — music, visuals, demos, and releases  
 > 🌊 **[Voxel Audio](https://github.com/GareBear99/Voxel_Audio)** — free RGB waveform visualizer and audio export tool  
 > 📘 **[Facebook Page](https://www.facebook.com/profile.php?id=61564485196765)** — TizWildin / GareBearProductionz updates  
-> 🗂️ **[Release Vault](https://garebear99.github.io/TizWildin-Release-Vault/)** — official monetized releases, waveform banners, distributed tracks, and catalog proof
+> 🗂️ **[TizWildin-Release Vault](https://garebear99.github.io/TizWildin-Release-Vault/)** — official monetized releases, waveform banners, distributed tracks, and catalog proof
 
 **Official TizWildin / GareBearProductionz release vault** for monetized SoundCloud releases, distributed tracks, SoundCloud waveform banners, GitHub audio tools, YouTube visuals, Facebook updates, **FreeEQ8**, and **Voxel Audio**.
 
