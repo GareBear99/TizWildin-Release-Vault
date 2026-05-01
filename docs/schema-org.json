@@ -1,0 +1,1830 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MusicGroup",
+      "@id": "https://garebear99.github.io/TizWildin-Release-Vault/#artist",
+      "name": "TizWildin",
+      "alternateName": [
+        "GareBearProductionz",
+        "TizWildin Entertainment",
+        "GareBear99"
+      ],
+      "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+      "sameAs": [
+        "https://soundcloud.com/tizwildin",
+        "https://www.youtube.com/@gfgfvmhj",
+        "https://www.facebook.com/profile.php?id=61564485196765",
+        "https://github.com/GareBear99"
+      ],
+      "description": "Independent music and audio-software ecosystem by TizWildin / GareBearProductionz."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://garebear99.github.io/TizWildin-Release-Vault/#website",
+      "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+      "name": "TizWildin Release Vault",
+      "publisher": {
+        "@id": "https://garebear99.github.io/TizWildin-Release-Vault/#artist"
+      },
+      "description": "Official TizWildin Release Vault: monetized SoundCloud releases, distributed tracks, SoundCloud waveform banners, FreeEQ8, Voxel Audio, GitHub audio tools, YouTube visuals, Facebook updates, and independent electronic music release proof."
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://garebear99.github.io/TizWildin-Release-Vault/#release-vault",
+      "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+      "name": "TizWildin Release Vault",
+      "description": "Official TizWildin Release Vault: monetized SoundCloud releases, distributed tracks, SoundCloud waveform banners, FreeEQ8, Voxel Audio, GitHub audio tools, YouTube visuals, Facebook updates, and independent electronic music release proof.",
+      "isPartOf": {
+        "@id": "https://garebear99.github.io/TizWildin-Release-Vault/#website"
+      },
+      "about": {
+        "@id": "https://garebear99.github.io/TizWildin-Release-Vault/#artist"
+      },
+      "hasPart": [
+        {
+          "@type": "MusicRecording",
+          "name": "Rewind - WIP",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "FollowYou - WIP/Sample",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "NextToYou - UnMastered/NonFinal",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "FunkiBeat3 - WIP",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "OddBalls - WIP/Sample",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "KaZooie - UnMastered/NonFinal/Single",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "BeatleJuice - WIP",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "DuhDahDah - UnMastered/NonFinal",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Loaded - WIP",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Fallen - UnMastered/NonFinal",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "ThingsHappening",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "PolyClone - ThingsHappening",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Wrong Turn - Python Music",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "beautiful_violin_synth",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "LanguageStep - WIP",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "!GraveRave! - UnMastered/NonFinal",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "BreakTime - UnMastered/NonFinal",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "ClockWork - UnMastered/NonFinal",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Slimer - UnMastered/NonFinal/Single",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Munk - WIP",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "DeepHouse - WIP/Sample",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "MrHawk - WIP",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Quirkin - UnMastered/NonFinal",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Timothy - WIP",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Clacker - UnMastered/NonFinal",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Genie - \ud83d\udc7eMastered\ud83d\udc7e/NonFinal",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Rewind VIP - UnMastered/NonFinal",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://m.soundcloud.com/tizwildin/rewind-vip-unmasterednonfinal?in=tizwildin%2Fsets%2Fsamples-wip",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "EDMSoloRiser - \ud83d\udc7eMastered\ud83d\udc7e/Sample",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Memoria - UnMastered/NonFinal",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Quake - UnMastered/NonFinal/Single",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Kauffee",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Golden_Night_Drive - WIP",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Numb - WIP",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Echoes - WIP/Sample/Loop",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://soundcloud.com/tizwildin/0e39269c-f1d0-4149-aa6a-5ab6efaa00cb",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "big_room - Wraith's Revenge",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Tangerine - WIP/Sample/Loop",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "OddBallz - WIP/Sample",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Stickz - WIP/Sample/Loop",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "GMunnyMind - \ud83d\udc7eMastered\ud83d\udc7e",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Zoop - \ud83d\udc7eMastered\ud83d\udc7e/NonFinal/WIP",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "DirtyPop - WIP",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "WraithEternally ep1",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "WraithRevenge",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Wraith Eternal - Avenge",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "EternalStrum_V1",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "EternalStrum_V2",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "TizWildin - Aurora Theft - 96 BPM E Lydian",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Future Bass Dub Switch V1 - WIP",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "TranDown - VIP",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "TranDown Glitch Vinyl - WIP",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "TranDown Xl - WIP",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Future Bass Dub Switch V2",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Sparks In The Circuitry - Vol 1",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://garebear99.github.io/TizWildin-Release-Vault/",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Odyssey Of A Mother-Board",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://soundcloud.com/tizwildin/sets/odyssey-of-a-mother-board?si=87dd62f2bccb4da4adaa966d25c0c0df&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          },
+          "image": "https://garebear99.github.io/TizWildin-Release-Vault/assets/banners/odyssey-of-a-mother-board-banner.jpg"
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Johnny X Gooch",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://soundcloud.com/tizwildin/johnny-x-gooch?in=tizwildin/sets/ascension&si=38e4bdd9c2584181b86d26b6a96701fc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          },
+          "image": "https://garebear99.github.io/TizWildin-Release-Vault/assets/banners/johnny-gooch-banner.jpg"
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Dubbed Out Of Luck",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://soundcloud.com/tizwildin/sets/dubbed_out_of_luck?si=15ba5c940a7a4e528d11cbb35c8fdca0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Needle In The Cup VIP",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://soundcloud.com/tizwildin/needle_in_the_cup_vip?si=74024fd4164f4d67921d0012b3f9cb59&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          }
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "LoveSick VIP Edit",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://soundcloud.com/tizwildin/lovesick-wip?si=7dadbfb4ffdc46f1a65a97d5d81565d3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          },
+          "image": "https://garebear99.github.io/TizWildin-Release-Vault/assets/banners/lovesick-wip-banner.jpg"
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Melodic Drip",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://soundcloud.com/tizwildin/melodic_drip-wip?si=af34746246524d909d844567494f2019&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          },
+          "image": "https://garebear99.github.io/TizWildin-Release-Vault/assets/banners/melodic-drip-wip-single-banner.jpg"
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "SanGritty WIP",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "TizWildin"
+          },
+          "url": "https://soundcloud.com/tizwildin/sangritty-wip?si=31efdf364b274bc6b4b0be80f101cabe&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "isAccessibleForFree": true,
+          "inAlbum": {
+            "@type": "MusicAlbum",
+            "name": "TizWildin Release Vault"
+          },
+          "image": "https://garebear99.github.io/TizWildin-Release-Vault/assets/banners/sangritty-wip-single-banner.jpg"
+        }
+      ]
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "FreeEQ8",
+      "applicationCategory": "AudioApplication",
+      "operatingSystem": "macOS, Linux, Windows",
+      "url": "https://github.com/GareBear99/FreeEQ8",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "description": "Free open-source EQ8-inspired parametric EQ plugin by GareBear99 / TizWildin."
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "Voxel Audio",
+      "applicationCategory": "AudioApplication",
+      "url": "https://github.com/GareBear99/Voxel_Audio",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "description": "Free RGB waveform visualizer and audio export tool by GareBear99 / TizWildin."
+    },
+    {
+      "@type": "SoftwareApplication",
+      "name": "FreeEQ8",
+      "alternateName": [
+        "Free EQ8",
+        "Free EQ Eight",
+        "TizWildin FreeEQ8"
+      ],
+      "applicationCategory": "AudioApplication",
+      "operatingSystem": "macOS, Linux, Windows",
+      "url": "https://github.com/GareBear99/FreeEQ8",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "description": "Free open-source EQ8-inspired parametric EQ plugin and flagship proof piece of the TizWildin audio ecosystem."
+    },
+    {
+      "@type": "WebApplication",
+      "name": "TizWildinEntertainmentHUB",
+      "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/",
+      "codeRepository": "https://github.com/GareBear99/TizWildinEntertainmentHUB",
+      "applicationCategory": "MultimediaApplication",
+      "description": "Primary public hub and live dashboard for the TizWildin plugin ecosystem, FreeEQ8, Voxel Audio, release vault, and audio-tool network.",
+      "isPartOf": {
+        "@id": "https://garebear99.github.io/TizWildin-Release-Vault/#website"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "name": "Voxel_Audio-Visualizer / TizWildin",
+      "url": "https://www.youtube.com/playlist?list=PLaYwqg3nCf6XFgK2IWShcXo9FI556sS8-",
+      "description": "Official TizWildin / Voxel Audio YouTube visualizer playlist for release visuals and music promo videos.",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "YouTube playlist",
+          "url": "https://www.youtube.com/playlist?list=PLaYwqg3nCf6XFgK2IWShcXo9FI556sS8-"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "name": "TizWildin Free Sample Packs",
+      "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "TizWildin-Aurora",
+          "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "TizWildin-Obsidian",
+          "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TizWildin-Skyline",
+          "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "TizWildin-Chroma",
+          "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "TizWildin-Chime",
+          "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Free Violin Synth Sample Kit",
+          "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Free Dark Piano Sound Kit",
+          "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Free 808 Producer Kit",
+          "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Free Riser Producer Kit",
+          "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Phonk Producer Toolkit",
+          "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Free Future Bass Producer Kit",
+          "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "name": "TizWildin YouTube Individual Visualizers",
+      "url": "https://www.youtube.com/playlist?list=PLaYwqg3nCf6XFgK2IWShcXo9FI556sS8-",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Awaken/Awake - TizWildin | Cinematic Deep House & Melodic Electronic Music",
+          "url": "https://www.youtube.com/watch?v=jggVLa8m3Yc"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Rewind VIP - TizWildin | Official Release | RGB Audio Visualizer",
+          "url": "https://www.youtube.com/watch?v=V85Bl0d98z8"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Melodic Drip - TizWildin | WIP Melodic Electronic / Neon Visualizer",
+          "url": "https://www.youtube.com/watch?v=xymsQLdesM8"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Sangritty - TizWildin | WIP House Music | Voxel Audio",
+          "url": "https://www.youtube.com/watch?v=6VkLc7gd1Lg"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "Alien Future - TizWildin | Final Mix Futuristic Electronic Visualizer",
+          "url": "https://www.youtube.com/watch?v=FiF8eIQlLQo"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Alien Ascension - TizWildin | WIP Futuristic Electronic Visualizer",
+          "url": "https://www.youtube.com/watch?v=nOW9KbpYOkk"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "LoveSick (WIP) | Dark Emotional Electronic Visualizer",
+          "url": "https://www.youtube.com/watch?v=Q6KBzQrTTi8"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Genie - TizWildin | Music Visualizer | Voxel Audio RGB Waveform",
+          "url": "https://www.youtube.com/watch?v=Jabm99-yBVE"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Lonesome - TizWildin | WIP Electronic Music Visualizer | Voxel Audio",
+          "url": "https://www.youtube.com/watch?v=d6MUCvRhvEE"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Quirkin - TizWildin | Official RGB Audio Visualizer",
+          "url": "https://www.youtube.com/watch?v=lDw3Ky63JA0"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "LostSauce - TizWildin | Electronic Music Visualizer | Voxel Audio RGB Waveform",
+          "url": "https://www.youtube.com/watch?v=rLQOf_aoHeU"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "BreakTime - TizWildin | Official Release | Voxel Audio RGB Waveform",
+          "url": "https://www.youtube.com/watch?v=NmnipfMbWHg"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Celestial Tide - TizWildin | Fantasy Game OST | Voxel Audio RGB Visualizer",
+          "url": "https://www.youtube.com/watch?v=hD-aGXcUWxM"
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "Fallen - TizWildin | Official Visualizer",
+          "url": "https://www.youtube.com/watch?v=ROk80q4yhPM"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "name": "TizWildin Facebook Post Index",
+      "url": "https://www.facebook.com/profile.php?id=61564485196765",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "TizWildin Entertainment Facebook Page",
+          "url": "https://www.facebook.com/61564485196765"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Voxel Audio is live as part of my creator software stack",
+          "url": "https://www.facebook.com/61564485196765/posts/voxel-audio-is-live-as-part-of-my-creator-software-stackvoxel-audio-is-a-local-f/122097650894482839/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "First Voxel Audio visualizer is up on YouTube / Awaken Awake",
+          "url": "https://www.facebook.com/61564485196765/posts/first-voxel-audio-visualizer-is-up-on-youtubeawaken-awake-tizwildincinematic-dee/122097660404482839/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Genie - TizWildin WIP Electronic Single / Official Music Visualizer",
+          "url": "https://www.facebook.com/61564485196765/videos/genie-tizwildinwip-electronic-single-official-music-visualizerofficial-music-vis/1505778734510090/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "LanguageStep - TizWildin Heavy Dubstep / Experimental Bass Visualizer",
+          "url": "https://www.facebook.com/61564485196765/videos/tizwildin-languagestep-wipheavy-dubstep-experimental-bass-visualizerofficial-mus/2410993202751391/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "LostSauce - TizWildin Final Mix / Unmastered / Official Electronic Visualizer",
+          "url": "https://www.facebook.com/61564485196765/videos/lostsauce-tizwildinfinal-mix-unmastered-official-electronic-visualizerofficial-m/898678279865205/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Sangritty - TizWildin WIP House / Electronic Single / Official Music Visualizer",
+          "url": "https://www.facebook.com/61564485196765/videos/sangritty-tizwildinwip-house-electronic-single-official-music-visualizerofficial/827269343262636/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Grave Rave Remix feat. TRNDSTR - Dark Electronic / Remix Visualizer",
+          "url": "https://www.facebook.com/61564485196765/videos/tizwildin-grave-rave-remix-feat-trndstrdark-electronic-remix-visualizerofficial-/2401116510387709/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Fallen - TizWildin UnMastered / NonFinal Single / Official Music Visualizer",
+          "url": "https://www.facebook.com/61564485196765/videos/fallen-tizwildinunmastered-nonfinal-single-official-music-visualizerofficial-mus/1273445651608371/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Rewind VIP - TizWildin / WIP / Futuristic Electronic Visualizer",
+          "url": "https://www.facebook.com/61564485196765/videos/rewind-vip-tizwildin-wip-futuristic-electronic-visualizerofficial-music-visualiz/26538261519198791/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Quirkin - TizWildin Final Mix / UnMastered / Official Electronic Music Visualizer",
+          "url": "https://www.facebook.com/61564485196765/videos/quirkin-tizwildinfinal-mix-unmastered-official-electronic-music-visualizeroffici/1988869838376069/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "Melodic Drip - TizWildin WIP Melodic Electronic / Neon Visualizer",
+          "url": "https://www.facebook.com/61564485196765/videos/melodic-drip-tizwildinwip-melodic-electronic-neon-visualizerofficial-music-visua/1292426852277034/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Heat Up The F*ckMachine - TizWildin Official Electronic Music / Voxel Audio Visualizer",
+          "url": "https://www.facebook.com/61564485196765/videos/heat-up-the-fckmachine-tizwildinofficial-electronic-music-voxel-audio-visualizer/1486234933046563/"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "name": "TizWildin Free Sample Pack Repositories",
+      "description": "Free TizWildin sample packs with dedicated repo links where available and Hub routing for catalog-only packs.",
+      "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "TizWildin-Aurora",
+          "url": "https://github.com/GareBear99/TizWildinEntertainmentHUB"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "TizWildin-Obsidian",
+          "url": "https://github.com/GareBear99/TizWildinEntertainmentHUB"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "TizWildin-Skyline",
+          "url": "https://github.com/GareBear99/TizWildinEntertainmentHUB"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "TizWildin-Chroma",
+          "url": "https://github.com/GareBear99/TizWildinEntertainmentHUB"
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "TizWildin-Chime",
+          "url": "https://github.com/GareBear99/TizWildinEntertainmentHUB"
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "Free Violin Synth Sample Kit",
+          "url": "https://github.com/GareBear99/Instrudio"
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "Free Dark Piano Sound Kit",
+          "url": "https://github.com/GareBear99/Free-Dark-Piano-Sound-Kit"
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "Free 808 Producer Kit",
+          "url": "https://github.com/GareBear99/Free-808-Producer-Kit"
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Free Riser Producer Kit",
+          "url": "https://github.com/GareBear99/Free-Riser-Producer-Kit"
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Phonk Producer Toolkit",
+          "url": "https://github.com/GareBear99/Phonk_Producer_Toolkit"
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "Free Future Bass Producer Kit",
+          "url": "https://github.com/GareBear99/Free-Future-Bass-Producer-Kit"
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "name": "TizWildin Release Link Matrix",
+      "description": "Cross-linked SoundCloud monetized releases with SoundCloud, YouTube, Facebook, banner, and distributor links where available.",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Rewind - WIP",
+          "url": "https://www.youtube.com/watch?v=V85Bl0d98z8",
+          "sameAs": [
+            "https://www.youtube.com/watch?v=V85Bl0d98z8",
+            "https://www.facebook.com/61564485196765/videos/rewind-vip-tizwildin-wip-futuristic-electronic-visualizerofficial-music-visualiz/26538261519198791/"
+          ]
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "FollowYou - WIP/Sample",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "NextToYou - UnMastered/NonFinal",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "FunkiBeat3 - WIP",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "name": "OddBalls - WIP/Sample",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "name": "KaZooie - UnMastered/NonFinal/Single",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "name": "BeatleJuice - WIP",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 8,
+          "name": "DuhDahDah - UnMastered/NonFinal",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 9,
+          "name": "Loaded - WIP",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 10,
+          "name": "Fallen - UnMastered/NonFinal",
+          "url": "https://www.youtube.com/watch?v=ROk80q4yhPM",
+          "sameAs": [
+            "https://www.youtube.com/watch?v=ROk80q4yhPM",
+            "https://www.facebook.com/61564485196765/videos/fallen-tizwildinunmastered-nonfinal-single-official-music-visualizerofficial-mus/1273445651608371/"
+          ]
+        },
+        {
+          "@type": "ListItem",
+          "position": 11,
+          "name": "ThingsHappening",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 12,
+          "name": "PolyClone - ThingsHappening",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 13,
+          "name": "Wrong Turn - Python Music",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 14,
+          "name": "beautiful_violin_synth",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 15,
+          "name": "LanguageStep - WIP",
+          "url": "https://www.facebook.com/61564485196765/videos/tizwildin-languagestep-wipheavy-dubstep-experimental-bass-visualizerofficial-mus/2410993202751391/",
+          "sameAs": [
+            "https://www.facebook.com/61564485196765/videos/tizwildin-languagestep-wipheavy-dubstep-experimental-bass-visualizerofficial-mus/2410993202751391/"
+          ]
+        },
+        {
+          "@type": "ListItem",
+          "position": 16,
+          "name": "!GraveRave! - UnMastered/NonFinal",
+          "url": "https://www.facebook.com/61564485196765/videos/tizwildin-grave-rave-remix-feat-trndstrdark-electronic-remix-visualizerofficial-/2401116510387709/",
+          "sameAs": [
+            "https://www.facebook.com/61564485196765/videos/tizwildin-grave-rave-remix-feat-trndstrdark-electronic-remix-visualizerofficial-/2401116510387709/"
+          ]
+        },
+        {
+          "@type": "ListItem",
+          "position": 17,
+          "name": "BreakTime - UnMastered/NonFinal",
+          "url": "https://www.youtube.com/watch?v=NmnipfMbWHg",
+          "sameAs": [
+            "https://www.youtube.com/watch?v=NmnipfMbWHg"
+          ]
+        },
+        {
+          "@type": "ListItem",
+          "position": 18,
+          "name": "ClockWork - UnMastered/NonFinal",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 19,
+          "name": "Slimer - UnMastered/NonFinal/Single",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 20,
+          "name": "Munk - WIP",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 21,
+          "name": "DeepHouse - WIP/Sample",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 22,
+          "name": "MrHawk - WIP",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 23,
+          "name": "Quirkin - UnMastered/NonFinal",
+          "url": "https://www.youtube.com/watch?v=lDw3Ky63JA0",
+          "sameAs": [
+            "https://www.youtube.com/watch?v=lDw3Ky63JA0",
+            "https://www.facebook.com/61564485196765/videos/quirkin-tizwildinfinal-mix-unmastered-official-electronic-music-visualizeroffici/1988869838376069/"
+          ]
+        },
+        {
+          "@type": "ListItem",
+          "position": 24,
+          "name": "Timothy - WIP",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 25,
+          "name": "Clacker - UnMastered/NonFinal",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 26,
+          "name": "Genie - \ud83d\udc7eMastered\ud83d\udc7e/NonFinal",
+          "url": "https://www.youtube.com/watch?v=Jabm99-yBVE",
+          "sameAs": [
+            "https://www.youtube.com/watch?v=Jabm99-yBVE",
+            "https://www.facebook.com/61564485196765/videos/genie-tizwildinwip-electronic-single-official-music-visualizerofficial-music-vis/1505778734510090/"
+          ]
+        },
+        {
+          "@type": "ListItem",
+          "position": 27,
+          "name": "Rewind VIP - UnMastered/NonFinal",
+          "url": "https://m.soundcloud.com/tizwildin/rewind-vip-unmasterednonfinal?in=tizwildin%2Fsets%2Fsamples-wip",
+          "sameAs": [
+            "https://m.soundcloud.com/tizwildin/rewind-vip-unmasterednonfinal?in=tizwildin%2Fsets%2Fsamples-wip",
+            "https://www.youtube.com/watch?v=V85Bl0d98z8",
+            "https://www.facebook.com/61564485196765/videos/rewind-vip-tizwildin-wip-futuristic-electronic-visualizerofficial-music-visualiz/26538261519198791/"
+          ]
+        },
+        {
+          "@type": "ListItem",
+          "position": 28,
+          "name": "EDMSoloRiser - \ud83d\udc7eMastered\ud83d\udc7e/Sample",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 29,
+          "name": "Memoria - UnMastered/NonFinal",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 30,
+          "name": "Quake - UnMastered/NonFinal/Single",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 31,
+          "name": "Kauffee",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 32,
+          "name": "Golden_Night_Drive - WIP",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 33,
+          "name": "Numb - WIP",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 34,
+          "name": "Echoes - WIP/Sample/Loop",
+          "url": "https://soundcloud.com/tizwildin/0e39269c-f1d0-4149-aa6a-5ab6efaa00cb",
+          "sameAs": [
+            "https://soundcloud.com/tizwildin/0e39269c-f1d0-4149-aa6a-5ab6efaa00cb"
+          ]
+        },
+        {
+          "@type": "ListItem",
+          "position": 35,
+          "name": "big_room - Wraith's Revenge",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 36,
+          "name": "Tangerine - WIP/Sample/Loop",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 37,
+          "name": "OddBallz - WIP/Sample",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 38,
+          "name": "Stickz - WIP/Sample/Loop",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 39,
+          "name": "GMunnyMind - \ud83d\udc7eMastered\ud83d\udc7e",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 40,
+          "name": "Zoop - \ud83d\udc7eMastered\ud83d\udc7e/NonFinal/WIP",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 41,
+          "name": "DirtyPop - WIP",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 42,
+          "name": "WraithEternally ep1",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 43,
+          "name": "WraithRevenge",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 44,
+          "name": "Wraith Eternal - Avenge",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 45,
+          "name": "EternalStrum_V1",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 46,
+          "name": "EternalStrum_V2",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 47,
+          "name": "TizWildin - Aurora Theft - 96 BPM E Lydian",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 48,
+          "name": "Future Bass Dub Switch V1 - WIP",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 49,
+          "name": "TranDown - VIP",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 50,
+          "name": "TranDown Glitch Vinyl - WIP",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 51,
+          "name": "TranDown Xl - WIP",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 52,
+          "name": "Future Bass Dub Switch V2",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 53,
+          "name": "Sparks In The Circuitry - Vol 1",
+          "url": "",
+          "sameAs": []
+        },
+        {
+          "@type": "ListItem",
+          "position": 54,
+          "name": "Odyssey Of A Mother-Board",
+          "url": "https://soundcloud.com/tizwildin/sets/odyssey-of-a-mother-board?si=87dd62f2bccb4da4adaa966d25c0c0df&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "sameAs": [
+            "https://soundcloud.com/tizwildin/sets/odyssey-of-a-mother-board?si=87dd62f2bccb4da4adaa966d25c0c0df&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "assets/banners/odyssey-of-a-mother-board-banner.jpg"
+          ]
+        },
+        {
+          "@type": "ListItem",
+          "position": 55,
+          "name": "Johnny X Gooch",
+          "url": "https://soundcloud.com/tizwildin/johnny-x-gooch?in=tizwildin/sets/ascension&si=38e4bdd9c2584181b86d26b6a96701fc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "sameAs": [
+            "https://soundcloud.com/tizwildin/johnny-x-gooch?in=tizwildin/sets/ascension&si=38e4bdd9c2584181b86d26b6a96701fc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "assets/banners/johnny-gooch-banner.jpg"
+          ]
+        },
+        {
+          "@type": "ListItem",
+          "position": 56,
+          "name": "Dubbed Out Of Luck",
+          "url": "https://soundcloud.com/tizwildin/sets/dubbed_out_of_luck?si=15ba5c940a7a4e528d11cbb35c8fdca0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "sameAs": [
+            "https://soundcloud.com/tizwildin/sets/dubbed_out_of_luck?si=15ba5c940a7a4e528d11cbb35c8fdca0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+          ]
+        },
+        {
+          "@type": "ListItem",
+          "position": 57,
+          "name": "Needle In The Cup VIP",
+          "url": "https://soundcloud.com/tizwildin/needle_in_the_cup_vip?si=74024fd4164f4d67921d0012b3f9cb59&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "sameAs": [
+            "https://soundcloud.com/tizwildin/needle_in_the_cup_vip?si=74024fd4164f4d67921d0012b3f9cb59&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+          ]
+        },
+        {
+          "@type": "ListItem",
+          "position": 58,
+          "name": "LoveSick VIP Edit",
+          "url": "https://soundcloud.com/tizwildin/lovesick-wip?si=7dadbfb4ffdc46f1a65a97d5d81565d3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "sameAs": [
+            "https://soundcloud.com/tizwildin/lovesick-wip?si=7dadbfb4ffdc46f1a65a97d5d81565d3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "assets/banners/lovesick-wip-banner.jpg",
+            "https://www.youtube.com/watch?v=Q6KBzQrTTi8"
+          ]
+        },
+        {
+          "@type": "ListItem",
+          "position": 59,
+          "name": "Melodic Drip",
+          "url": "https://soundcloud.com/tizwildin/melodic_drip-wip?si=af34746246524d909d844567494f2019&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "sameAs": [
+            "https://soundcloud.com/tizwildin/melodic_drip-wip?si=af34746246524d909d844567494f2019&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "assets/banners/melodic-drip-wip-single-banner.jpg",
+            "https://www.youtube.com/watch?v=xymsQLdesM8",
+            "https://www.facebook.com/61564485196765/videos/melodic-drip-tizwildinwip-melodic-electronic-neon-visualizerofficial-music-visua/1292426852277034/"
+          ]
+        },
+        {
+          "@type": "ListItem",
+          "position": 60,
+          "name": "SanGritty WIP",
+          "url": "https://soundcloud.com/tizwildin/sangritty-wip?si=31efdf364b274bc6b4b0be80f101cabe&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "sameAs": [
+            "https://soundcloud.com/tizwildin/sangritty-wip?si=31efdf364b274bc6b4b0be80f101cabe&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "assets/banners/sangritty-wip-single-banner.jpg",
+            "https://www.youtube.com/watch?v=6VkLc7gd1Lg",
+            "https://www.facebook.com/61564485196765/videos/sangritty-tizwildinwip-house-electronic-single-official-music-visualizerofficial/827269343262636/"
+          ]
+        },
+        {
+          "@type": "ListItem",
+          "position": 61,
+          "name": "Alien Ascension WIP",
+          "url": "https://soundcloud.com/tizwildin/alien_ascension-wip?in=tizwildin/sets/ascension&si=7bafa315c44f4874a989b91c42c82cf6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "sameAs": [
+            "https://soundcloud.com/tizwildin/alien_ascension-wip?in=tizwildin/sets/ascension&si=7bafa315c44f4874a989b91c42c82cf6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "assets/banners/alien-ascension-wip-banner.jpg",
+            "https://www.youtube.com/watch?v=nOW9KbpYOkk"
+          ]
+        },
+        {
+          "@type": "ListItem",
+          "position": 62,
+          "name": "Grave Rave Remix feat. TRNDSTR",
+          "url": "https://soundcloud.com/tizwildin/grave-rave-remix-feat-trndstr?si=c8faf5c75976412d887dd5bc8b799f2f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "sameAs": [
+            "https://soundcloud.com/tizwildin/grave-rave-remix-feat-trndstr?si=c8faf5c75976412d887dd5bc8b799f2f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "assets/banners/grave-rave-remix-banner.jpg",
+            "https://www.facebook.com/61564485196765/videos/tizwildin-grave-rave-remix-feat-trndstrdark-electronic-remix-visualizerofficial-/2401116510387709/"
+          ]
+        },
+        {
+          "@type": "ListItem",
+          "position": 63,
+          "name": "Awaken / Awake",
+          "url": "https://soundcloud.com/tizwildin/awaken?si=6b96b3056ce7439a9faf088c749745c1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+          "sameAs": [
+            "https://soundcloud.com/tizwildin/awaken?si=6b96b3056ce7439a9faf088c749745c1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
+            "assets/banners/awaken-awake-banner.jpg",
+            "https://www.youtube.com/watch?v=jggVLa8m3Yc",
+            "https://www.facebook.com/61564485196765/posts/first-voxel-audio-visualizer-is-up-on-youtubeawaken-awake-tizwildincinematic-dee/122097660404482839/"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "name": "TizWildin Platform Coverage Audit",
+      "description": "Counts of indexed SoundCloud, YouTube, Facebook, distribution, sample pack, and release-link surfaces in the TizWildin Release Vault.",
+      "variableMeasured": [
+        {
+          "@type": "PropertyValue",
+          "name": "SoundCloud monetized / catalog rows",
+          "value": 63
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "SoundCloud rows with direct URL",
+          "value": 12
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "YouTube individual links",
+          "value": 15
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Facebook public links",
+          "value": 21
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Distributed/submitted rows",
+          "value": 2
+        },
+        {
+          "@type": "PropertyValue",
+          "name": "Rows with extra cross-links",
+          "value": 16
+        }
+      ]
+    }
+  ]
+}

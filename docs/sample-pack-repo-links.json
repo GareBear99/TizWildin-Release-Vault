@@ -1,0 +1,93 @@
+{
+  "note": "Dedicated public GitHub repos are linked where verified. Older named packs route through the Hub repo/catalog until a dedicated repo URL is available.",
+  "packs": [
+    {
+      "name": "TizWildin-Aurora",
+      "description": "3-segment original synth melody pack with loops, stems, demo renders, and neon/cinematic phrasing.",
+      "lane": "Synth melody / cinematic",
+      "repo": "https://github.com/GareBear99/TizWildinEntertainmentHUB",
+      "repo_label": "Hub catalog / repo route",
+      "hub": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+    },
+    {
+      "name": "TizWildin-Obsidian",
+      "description": "Dark cinematic sample pack with choir textures, menu loops, transitions, bass, atmosphere, drums, and electric-banjo extensions.",
+      "lane": "Dark cinematic",
+      "repo": "https://github.com/GareBear99/TizWildinEntertainmentHUB",
+      "repo_label": "Hub catalog / repo route",
+      "hub": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+    },
+    {
+      "name": "TizWildin-Skyline",
+      "description": "30 BPM-tagged synthwave and darkwave loops with generator snapshot and dark neon additions.",
+      "lane": "Synthwave / darkwave",
+      "repo": "https://github.com/GareBear99/TizWildinEntertainmentHUB",
+      "repo_label": "Hub catalog / repo route",
+      "hub": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+    },
+    {
+      "name": "TizWildin-Chroma",
+      "description": "Multi-segment game synthwave loop sample pack from TizWildin Entertainment.",
+      "lane": "Game synthwave",
+      "repo": "https://github.com/GareBear99/TizWildinEntertainmentHUB",
+      "repo_label": "Hub catalog / repo route",
+      "hub": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+    },
+    {
+      "name": "TizWildin-Chime",
+      "description": "Multi-part 88 BPM chime collection spanning glass, void, halo, reed, and neon synthwave lanes.",
+      "lane": "Chimes / neon synthwave",
+      "repo": "https://github.com/GareBear99/TizWildinEntertainmentHUB",
+      "repo_label": "Hub catalog / repo route",
+      "hub": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+    },
+    {
+      "name": "Free Violin Synth Sample Kit",
+      "description": "Physical-model violin sample kit rendered from the Instrudio violin instrument.",
+      "lane": "Instrument sample kit",
+      "repo": "https://github.com/GareBear99/Instrudio",
+      "repo_label": "Instrudio repo",
+      "hub": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+    },
+    {
+      "name": "Free Dark Piano Sound Kit",
+      "description": "88 piano notes A0\u2013C8 plus dark/cinematic loops and MIDI.",
+      "lane": "Piano / cinematic",
+      "repo": "https://github.com/GareBear99/Free-Dark-Piano-Sound-Kit",
+      "repo_label": "Dedicated pack repo",
+      "hub": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+    },
+    {
+      "name": "Free 808 Producer Kit",
+      "description": "94 hand-crafted 808 bass samples tuned to every chromatic key.",
+      "lane": "808 / bass",
+      "repo": "https://github.com/GareBear99/Free-808-Producer-Kit",
+      "repo_label": "Dedicated pack repo",
+      "hub": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+    },
+    {
+      "name": "Free Riser Producer Kit",
+      "description": "115+ risers and 63 downlifters: noise, synth, drum, FX, and cinematic.",
+      "lane": "Transitions / FX",
+      "repo": "https://github.com/GareBear99/Free-Riser-Producer-Kit",
+      "repo_label": "Dedicated pack repo",
+      "hub": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+    },
+    {
+      "name": "Phonk Producer Toolkit",
+      "description": "Drift phonk starter kit with 808s, cowbells, drums, MIDI, textures, templates, GamePhonk, and Drift V3 expansions.",
+      "lane": "Phonk / drift",
+      "repo": "https://github.com/GareBear99/Phonk_Producer_Toolkit",
+      "repo_label": "Dedicated pack repo",
+      "hub": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+    },
+    {
+      "name": "Free Future Bass Producer Kit",
+      "description": "Loops, fills, drums, bass, synths, pads, FX, seamless loops, and multi-genre future-bass production assets.",
+      "lane": "Future bass",
+      "repo": "https://github.com/GareBear99/Free-Future-Bass-Producer-Kit",
+      "repo_label": "Dedicated pack repo",
+      "hub": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+    }
+  ]
+}
