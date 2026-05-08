@@ -1,5 +1,33 @@
 # TizWildin Release Vault
 
+# Current Upgrade: Queryable Track Cross-Link Index
+
+This package now includes a generated, per-track public indexing layer for the TizWildin Release Vault. Every known track gets a canonical route under `tracks/<track-slug>/`, a sitemap entry, platform/discovery links, full ecosystem cross-links, related-track routes, and machine-readable JSON records.
+
+## New generated routes
+
+- `release-index.html` — full track route index.
+- `release-search.html` — client-side release/search layer.
+- `index-health.html` — public health/readiness dashboard.
+- `tracks/<track-slug>/index.html` — one route per track.
+- `docs/release-crosslink-index.json` — full track/link graph.
+- `docs/release-search-index.json` — search records.
+- `docs/release-health.json` — route/link/source coverage score.
+- `docs/RELEASE_VAULT_BENCHMARK.json` — benchmark report.
+
+## Rebuild and validate
+
+```bash
+python scripts/build_release_crosslink_index.py
+python scripts/validate_release_crosslinks.py
+python scripts/benchmark_release_vault.py
+```
+
+The latest local run generated 104 track routes, 388 platform/discovery links, and 5,096 ecosystem cross-links.
+
+---
+
+
 
 > 🎛️ Part of the [TizWildin Plugin Ecosystem](https://garebear99.github.io/TizWildinEntertainmentHUB/) — 19 free audio plugins with a live update dashboard.
 >
@@ -333,3 +361,12 @@ This repository is a public catalog, release manifest, and promotional proof lay
 ## Release Vault Repo URL
 
 https://github.com/GareBear99/TizWildin-Release-Vault
+
+
+## Public All-Links Route
+
+Primary public all-links / fan-link route:
+
+https://ffm.bio/no4km87
+
+The generated Release Vault routes now include this link across track pages, search/index pages, JSON-LD `sameAs`, `llms.txt`, and the sourced page-link graph.

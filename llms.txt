@@ -1,0 +1,118 @@
+# TizWildin Release Vault
+
+Public release, track, and ecosystem cross-link index for TizWildin / GareBearProductionz.
+
+## Key indexes
+- release-index.html
+- release-search.html
+- docs/release-crosslink-index.json
+- docs/release-search-index.json
+- docs/release-health.json
+- docs/sourced-page-links.json
+- https://ffm.bio/no4km87
+
+## Track routes
+- 🍭 🎀 𝒫𝒾𝓍𝒾𝑒 🎀 🍭: tracks/track/
+- 🌬️ FreshOfBreathAir 👾FinalMix/UnMastered👾: tracks/freshofbreathair-finalmix-unmastered/
+- ~RogueFrequency - UnMastered/NonFinal: tracks/roguefrequency-unmastered-nonfinal/
+- Zoop - 👾Mastered👾/NonFinal/WIP: tracks/zoop-mastered-nonfinal-wip/
+- Zip - WIP: tracks/zip-wip/
+- Wrong Turn - Python Music: tracks/wrong-turn-python-music/
+- WraithRevenge: tracks/wraithrevenge/
+- WraithEternally ep1: tracks/wraitheternally-ep1/
+- Wraith Eternal - Avenge: tracks/wraith-eternal-avenge/
+- Womp - WIP/Sample: tracks/womp-wip-sample/
+- Unstoppable Velocity: tracks/unstoppable-velocity/
+- Tribulations - UnMastered/NonFinal/Single: tracks/tribulations-unmastered-nonfinal-single/
+- TranDown Xl - WIP: tracks/trandown-xl-wip/
+- TranDown Glitch Vinyl - WIP: tracks/trandown-glitch-vinyl-wip/
+- TranDown - VIP: tracks/trandown-vip/
+- TokyoDhroul - WIP: tracks/tokyodhroul-wip/
+- TizWildin - Aurora Theft - 96 BPM E Lydian: tracks/tizwildin-aurora-theft-96-bpm-e-lydian/
+- Timothy - WIP: tracks/timothy-wip/
+- ThingsHappening: tracks/thingshappening/
+- Tangerine - WIP/Sample/Loop: tracks/tangerine-wip-sample-loop/
+- Stringz - WIP: tracks/stringz-wip/
+- Stickz - WIP/Sample/Loop: tracks/stickz-wip-sample-loop/
+- Sparks In The Circuitry - Vol 1: tracks/sparks-in-the-circuitry-vol-1/
+- Sonic Lightning: tracks/sonic-lightning/
+- Slimer - UnMastered/NonFinal/Single: tracks/slimer-unmastered-nonfinal-single/
+- SanGritty WIP: tracks/sangritty-wip/
+- Rize - 👾Mastered👾/NonFinal: tracks/rize-mastered-nonfinal/
+- Rewind - WIP: tracks/rewind-wip/
+- Quirkin - UnMastered/NonFinal: tracks/quirkin-unmastered-nonfinal/
+- Quantum Conundrum: tracks/quantum-conundrum/
+- Quake - UnMastered/NonFinal/Single: tracks/quake-unmastered-nonfinal-single/
+- PolyClone - ThingsHappening: tracks/polyclone-thingshappening/
+- Oh - UnMastered/NonFinal: tracks/oh-unmastered-nonfinal/
+- Odyssey Of A Mother-Board: tracks/odyssey-of-a-mother-board/
+- OddBallz - WIP/Sample: tracks/oddballz-wip-sample/
+- OddBalls - WIP/Sample: tracks/oddballs-wip-sample/
+- Numb - WIP: tracks/numb-wip/
+- NoSleep: tracks/nosleep/
+- NextToYou - UnMastered/NonFinal: tracks/nexttoyou-unmastered-nonfinal/
+- neon_sunburst_full_mix - Python: tracks/neon-sunburst-full-mix-python/
+- Needle_in_the_Cup X All_Messed_Up - TizWIldin 'The StickMan Project' Remix: tracks/needle-in-the-cup-x-all-messed-up-tizwildin-the-stickman-project-remix/
+- Needle In The Cup VIP: tracks/needle-in-the-cup-vip/
+- Munk - WIP: tracks/munk-wip/
+- MrHawk - WIP: tracks/mrhawk-wip/
+- Memoria - UnMastered/NonFinal: tracks/memoria-unmastered-nonfinal/
+- MeadowVeil - 👾FinalMix👾: tracks/meadowveil-finalmix/
+- LoveSick VIP Edit: tracks/lovesick-vip-edit/
+- LostSauceUnMastered - Original: tracks/lostsauceunmastered-original/
+- LostSauce: tracks/lostsauce/
+- Lost - WIP/Sample: tracks/lost-wip-sample/
+- Lonesome: tracks/lonesome/
+- Loaded - WIP: tracks/loaded-wip/
+- LanguageStep - WIP: tracks/languagestep-wip/
+- KaZooie - UnMastered/NonFinal/Single: tracks/kazooie-unmastered-nonfinal-single/
+- Kauffee: tracks/kauffee/
+- Johnny X Gooch: tracks/johnny-x-gooch/
+- Heat_Up_The_FuckMachine: tracks/heat-up-the-fuckmachine/
+- Grave Rave Remix feat. TRNDSTR: tracks/grave-rave-remix-feat-trndstr/
+- Golden_Night_Drive - WIP: tracks/golden-night-drive-wip/
+- GMunnyMind - 👾Mastered👾: tracks/gmunnymind-mastered/
+- GetOutMeSwamp! - UnMastered/NonFinal: tracks/getoutmeswamp-unmastered-nonfinal/
+- Genie - 👾Mastered👾/NonFinal: tracks/genie-mastered-nonfinal/
+- Future Bass Dub Switch V2: tracks/future-bass-dub-switch-v2/
+- Future Bass Dub Switch V1 - WIP: tracks/future-bass-dub-switch-v1-wip/
+- FunkiGuitarBeat - WIP: tracks/funkiguitarbeat-wip/
+- FunkiBeat3 - WIP: tracks/funkibeat3-wip/
+- FunkiBeat2 - WIP/Sample: tracks/funkibeat2-wip-sample/
+- Funeral March - Dark Piano Synth Pack - Link in Bio!: tracks/funeral-march-dark-piano-synth-pack-link-in-bio/
+- Fractal Rift: tracks/fractal-rift/
+- FollowYou - WIP/Sample: tracks/followyou-wip-sample/
+- FloppyToppy - UnMastered/NonFinal: tracks/floppytoppy-unmastered-nonfinal/
+- Fallen - UnMastered/NonFinal: tracks/fallen-unmastered-nonfinal/
+- EternalStrum_V2: tracks/eternalstrum-v2/
+- EternalStrum_V1: tracks/eternalstrum-v1/
+- Eternal Strum V3: tracks/eternal-strum-v3/
+- Escalator - WIP: tracks/escalator-wip/
+- EDMSoloRiser - 👾Mastered👾/Sample: tracks/edmsoloriser-mastered-sample/
+- Echoes - WIP/Sample/Loop: tracks/echoes-wip-sample-loop/
+- DuhDahDah - UnMastered/NonFinal: tracks/duhdahdah-unmastered-nonfinal/
+- Dubbed Out Of Luck: tracks/dubbed-out-of-luck/
+- Dragon Arena - Instrumental/WIP: tracks/dragon-arena-instrumental-wip/
+- Down - WIP/Sample: tracks/down-wip-sample/
+- DoIt - WIP/Single: tracks/doit-wip-single/
+- DirtyPop - WIP: tracks/dirtypop-wip/
+- Dementia: tracks/dementia/
+- DeepHouse - WIP/Sample: tracks/deephouse-wip-sample/
+- ClockWork - UnMastered/NonFinal: tracks/clockwork-unmastered-nonfinal/
+- Clacker - UnMastered/NonFinal: tracks/clacker-unmastered-nonfinal/
+- Char - WIP: tracks/char-wip/
+- Celestial Tide: tracks/celestial-tide/
+- BreakTime - UnMastered/NonFinal: tracks/breaktime-unmastered-nonfinal/
+- big_room - Wraith's Revenge: tracks/big-room-wraith-s-revenge/
+- beautiful_violin_synth: tracks/beautiful-violin-synth/
+- BeatleJuice - WIP: tracks/beatlejuice-wip/
+- Asymmetry Fracture - Python: tracks/asymmetry-fracture-python/
+- Alien Future: tracks/alien-future/
+- Alien Ascension WIP: tracks/alien-ascension-wip/
+- Afterglow_124BPM_Amin_DEMO_MIX: tracks/afterglow-124bpm-amin-demo-mix/
+- 11_Aurora_Demo_Mix: tracks/11-aurora-demo-mix/
+- +¹LevelUp - WIP: tracks/levelup-wip/
+- !GraveRave! - UnMastered/NonFinal: tracks/graverave-unmastered-nonfinal/
+- Melodic Drip: tracks/melodic-drip/
+- Heat_Up_The_F*ckMachine: tracks/heat-up-the-f-ckmachine/
+- Awaken / Awake: tracks/awaken-awake/

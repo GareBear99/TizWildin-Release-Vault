@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://garebear99.github.io/TizWildin-Release-Vault/sitemap.xml

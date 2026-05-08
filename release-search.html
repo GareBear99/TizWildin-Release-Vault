@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Search TizWildin Release Vault</title>
+<meta name="description" content="Search TizWildin tracks, platform links, sample-pack links, and ecosystem routes.">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="https://garebear99.github.io/TizWildin-Release-Vault/release-search.html">
+<link rel="stylesheet" href="assets/style.css">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Search TizWildin Release Vault">
+<meta property="og:description" content="Search TizWildin tracks, platform links, sample-pack links, and ecosystem routes.">
+<meta property="og:url" content="https://garebear99.github.io/TizWildin-Release-Vault/release-search.html">
+<meta property="og:image" content="https://garebear99.github.io/TizWildin-Release-Vault/assets/banners/tizwildin-entertainment-waveform-banner.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Search TizWildin Release Vault">
+<meta name="twitter:description" content="Search TizWildin tracks, platform links, sample-pack links, and ecosystem routes.">
+<meta name="twitter:image" content="https://garebear99.github.io/TizWildin-Release-Vault/assets/banners/tizwildin-entertainment-waveform-banner.jpg">
+
+</head>
+<body>
+<div class="wrap">
+
+<section class='hero'><p class='meta'>Release Vault Search</p><h1>Search TizWildin Releases</h1><p>Client-side search over track titles, statuses, platform links, and ecosystem cross-links.</p><div class='nav'><a class='btn' href='release-index.html'>Release Index</a><a class='btn' href='https://ffm.bio/no4km87'>All Links / FFM Bio</a><a class='btn' href='./'>Vault Home</a></div></section>
+<section class='section panel card'><div class='body'><input id='q' placeholder='Search tracks, links, statuses, YouTube, SoundCloud, sample packs...' style='width:100%;padding:14px;border-radius:14px;border:1px solid var(--line);background:#0008;color:#fff;font-size:1rem'><div id='results' class='section grid'></div></div></section>
+<script>
+const results = document.getElementById('results');
+const q = document.getElementById('q');
+function card(r){return `<article class="card"><div class="body"><h3><a href="${r.url}">${r.title}</a></h3><p><span class="badge">${r.status}</span></p><p class="muted">${r.summary}</p><p>${r.links.slice(0,6).map(l=>`<a class="mini-link" href="${l.url}">${l.type}: ${l.label}</a>`).join('')}</p></div></article>`}
+fetch('docs/release-search-index.json').then(r=>r.json()).then(data=>{
+  function run(){const term=q.value.toLowerCase().trim(); const rows=data.records.filter(r=>!term || r.search_text.includes(term)).slice(0,80); results.innerHTML=rows.map(card).join('') || '<p class="muted">No results.</p>';}
+  q.addEventListener('input', run); run();
+});
+</script>
+
+</div>
+</body>
+</html>
