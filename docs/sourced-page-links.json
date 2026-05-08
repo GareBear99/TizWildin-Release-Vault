@@ -1,0 +1,1087 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-08T21:58:01.066755+00:00",
+  "count": 216,
+  "links": [
+    {
+      "type": "GitHub Pages",
+      "label": "TizWildin Plugin Ecosystem",
+      "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/"
+    },
+    {
+      "type": "GitHub",
+      "label": "FreeEQ8",
+      "url": "https://github.com/GareBear99/FreeEQ8"
+    },
+    {
+      "type": "GitHub",
+      "label": "XyloCore",
+      "url": "https://github.com/GareBear99/XyloCore"
+    },
+    {
+      "type": "GitHub",
+      "label": "Instrudio",
+      "url": "https://github.com/GareBear99/Instrudio"
+    },
+    {
+      "type": "GitHub",
+      "label": "Therum",
+      "url": "https://github.com/GareBear99/Therum_JUCE-Plugin"
+    },
+    {
+      "type": "GitHub",
+      "label": "BassMaid",
+      "url": "https://github.com/GareBear99/BassMaid"
+    },
+    {
+      "type": "GitHub",
+      "label": "SpaceMaid",
+      "url": "https://github.com/GareBear99/SpaceMaid"
+    },
+    {
+      "type": "GitHub",
+      "label": "GlueMaid",
+      "url": "https://github.com/GareBear99/GlueMaid"
+    },
+    {
+      "type": "GitHub",
+      "label": "MixMaid",
+      "url": "https://github.com/GareBear99/MixMaid"
+    },
+    {
+      "type": "GitHub",
+      "label": "MultiMaid",
+      "url": "https://github.com/GareBear99/MultiMaid"
+    },
+    {
+      "type": "GitHub",
+      "label": "MeterMaid",
+      "url": "https://github.com/GareBear99/MeterMaid"
+    },
+    {
+      "type": "GitHub",
+      "label": "ChainMaid",
+      "url": "https://github.com/GareBear99/ChainMaid"
+    },
+    {
+      "type": "GitHub",
+      "label": "PaintMask",
+      "url": "https://github.com/GareBear99/PaintMask_Free-JUCE-Plugin"
+    },
+    {
+      "type": "GitHub",
+      "label": "WURP",
+      "url": "https://github.com/GareBear99/WURP_Toxic-Motion-Engine_JUCE"
+    },
+    {
+      "type": "GitHub",
+      "label": "AETHER",
+      "url": "https://github.com/GareBear99/AETHER_Choir-Atmosphere-Designer"
+    },
+    {
+      "type": "GitHub",
+      "label": "WhisperGate",
+      "url": "https://github.com/GareBear99/WhisperGate_Free-JUCE-Plugin"
+    },
+    {
+      "type": "GitHub",
+      "label": "RiftWave",
+      "url": "https://github.com/GareBear99/RiftWaveSuite_RiftSynth_WaveForm_Lite"
+    },
+    {
+      "type": "GitHub",
+      "label": "FreeSampler",
+      "url": "https://github.com/GareBear99/FreeSampler_v0.3"
+    },
+    {
+      "type": "GitHub",
+      "label": "VF-PlexLab",
+      "url": "https://github.com/GareBear99/VF-PlexLab"
+    },
+    {
+      "type": "GitHub",
+      "label": "PAP-Forge-Audio",
+      "url": "https://github.com/GareBear99/PAP-Forge-Audio"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "TizWildin on SoundCloud",
+      "url": "https://soundcloud.com/tizwildin"
+    },
+    {
+      "type": "GitHub",
+      "label": "Awesome Audio",
+      "url": "https://github.com/GareBear99/awesome-audio-plugins-dev"
+    },
+    {
+      "type": "YouTube",
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@gfgfvmhj"
+    },
+    {
+      "type": "GitHub",
+      "label": "Voxel Audio",
+      "url": "https://github.com/GareBear99/Voxel_Audio"
+    },
+    {
+      "type": "Facebook",
+      "label": "Facebook Page",
+      "url": "https://www.facebook.com/profile.php?id=61564485196765"
+    },
+    {
+      "type": "GitHub Pages",
+      "label": "Release Vault",
+      "url": "https://garebear99.github.io/TizWildin-Release-Vault/"
+    },
+    {
+      "type": "GitHub",
+      "label": "https://github.com/GareBear99/TizWildinEntertainmentHUB",
+      "url": "https://github.com/GareBear99/TizWildinEntertainmentHUB"
+    },
+    {
+      "type": "YouTube",
+      "label": "Voxel_Audio-Visualizer / TizWildin",
+      "url": "https://www.youtube.com/playlist?list=PLaYwqg3nCf6XFgK2IWShcXo9FI556sS8-"
+    },
+    {
+      "type": "GitHub Pages",
+      "label": "Hub",
+      "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+    },
+    {
+      "type": "GitHub",
+      "label": "Dedicated pack repo",
+      "url": "https://github.com/GareBear99/Free-Dark-Piano-Sound-Kit"
+    },
+    {
+      "type": "GitHub",
+      "label": "Dedicated pack repo",
+      "url": "https://github.com/GareBear99/Free-808-Producer-Kit"
+    },
+    {
+      "type": "GitHub",
+      "label": "Dedicated pack repo",
+      "url": "https://github.com/GareBear99/Free-Riser-Producer-Kit"
+    },
+    {
+      "type": "GitHub",
+      "label": "Dedicated pack repo",
+      "url": "https://github.com/GareBear99/Phonk_Producer_Toolkit"
+    },
+    {
+      "type": "GitHub",
+      "label": "Dedicated pack repo",
+      "url": "https://github.com/GareBear99/Free-Future-Bass-Producer-Kit"
+    },
+    {
+      "type": "YouTube",
+      "label": "Awaken/Awake - TizWildin | Cinematic Deep House & Melodic Electronic Music",
+      "url": "https://www.youtube.com/watch?v=jggVLa8m3Yc"
+    },
+    {
+      "type": "YouTube",
+      "label": "Rewind VIP - TizWildin | Official Release | RGB Audio Visualizer",
+      "url": "https://www.youtube.com/watch?v=V85Bl0d98z8"
+    },
+    {
+      "type": "YouTube",
+      "label": "Melodic Drip - TizWildin | WIP Melodic Electronic / Neon Visualizer",
+      "url": "https://www.youtube.com/watch?v=xymsQLdesM8"
+    },
+    {
+      "type": "YouTube",
+      "label": "Sangritty - TizWildin | WIP House Music | Voxel Audio",
+      "url": "https://www.youtube.com/watch?v=6VkLc7gd1Lg"
+    },
+    {
+      "type": "YouTube",
+      "label": "Alien Future - TizWildin | Final Mix Futuristic Electronic Visualizer",
+      "url": "https://www.youtube.com/watch?v=FiF8eIQlLQo"
+    },
+    {
+      "type": "YouTube",
+      "label": "Alien Ascension - TizWildin | WIP Futuristic Electronic Visualizer",
+      "url": "https://www.youtube.com/watch?v=nOW9KbpYOkk"
+    },
+    {
+      "type": "YouTube",
+      "label": "LoveSick (WIP) | Dark Emotional Electronic Visualizer",
+      "url": "https://www.youtube.com/watch?v=Q6KBzQrTTi8"
+    },
+    {
+      "type": "YouTube",
+      "label": "Genie - TizWildin | Music Visualizer | Voxel Audio RGB Waveform",
+      "url": "https://www.youtube.com/watch?v=Jabm99-yBVE"
+    },
+    {
+      "type": "YouTube",
+      "label": "Lonesome - TizWildin | WIP Electronic Music Visualizer | Voxel Audio",
+      "url": "https://www.youtube.com/watch?v=d6MUCvRhvEE"
+    },
+    {
+      "type": "YouTube",
+      "label": "Quirkin - TizWildin | Official RGB Audio Visualizer",
+      "url": "https://www.youtube.com/watch?v=lDw3Ky63JA0"
+    },
+    {
+      "type": "YouTube",
+      "label": "LostSauce - TizWildin | Electronic Music Visualizer | Voxel Audio RGB Waveform",
+      "url": "https://www.youtube.com/watch?v=rLQOf_aoHeU"
+    },
+    {
+      "type": "YouTube",
+      "label": "BreakTime - TizWildin | Official Release | Voxel Audio RGB Waveform",
+      "url": "https://www.youtube.com/watch?v=NmnipfMbWHg"
+    },
+    {
+      "type": "YouTube",
+      "label": "Celestial Tide - TizWildin | Fantasy Game OST | Voxel Audio RGB Visualizer",
+      "url": "https://www.youtube.com/watch?v=hD-aGXcUWxM"
+    },
+    {
+      "type": "YouTube",
+      "label": "Fallen - TizWildin | Official Visualizer",
+      "url": "https://www.youtube.com/watch?v=ROk80q4yhPM"
+    },
+    {
+      "type": "YouTube",
+      "label": "NoSleep? - TizWildin | One of My First Songs!",
+      "url": "https://www.youtube.com/watch?v=mjYEA4Tdri4"
+    },
+    {
+      "type": "Facebook",
+      "label": "TizWildin Entertainment Facebook Page",
+      "url": "https://www.facebook.com/61564485196765"
+    },
+    {
+      "type": "Facebook",
+      "label": "Voxel Audio is live as part of my creator software stack",
+      "url": "https://www.facebook.com/61564485196765/posts/voxel-audio-is-live-as-part-of-my-creator-software-stackvoxel-audio-is-a-local-f/122097650894482839/"
+    },
+    {
+      "type": "Facebook",
+      "label": "First Voxel Audio visualizer is up on YouTube / Awaken Awake",
+      "url": "https://www.facebook.com/61564485196765/posts/first-voxel-audio-visualizer-is-up-on-youtubeawaken-awake-tizwildincinematic-dee/122097660404482839/"
+    },
+    {
+      "type": "Facebook",
+      "label": "Genie - TizWildin WIP Electronic Single / Official Music Visualizer",
+      "url": "https://www.facebook.com/61564485196765/videos/genie-tizwildinwip-electronic-single-official-music-visualizerofficial-music-vis/1505778734510090/"
+    },
+    {
+      "type": "Facebook",
+      "label": "LanguageStep - TizWildin Heavy Dubstep / Experimental Bass Visualizer",
+      "url": "https://www.facebook.com/61564485196765/videos/tizwildin-languagestep-wipheavy-dubstep-experimental-bass-visualizerofficial-mus/2410993202751391/"
+    },
+    {
+      "type": "Facebook",
+      "label": "LostSauce - TizWildin Final Mix / Unmastered / Official Electronic Visualizer",
+      "url": "https://www.facebook.com/61564485196765/videos/lostsauce-tizwildinfinal-mix-unmastered-official-electronic-visualizerofficial-m/898678279865205/"
+    },
+    {
+      "type": "Facebook",
+      "label": "Sangritty - TizWildin WIP House / Electronic Single / Official Music Visualizer",
+      "url": "https://www.facebook.com/61564485196765/videos/sangritty-tizwildinwip-house-electronic-single-official-music-visualizerofficial/827269343262636/"
+    },
+    {
+      "type": "Facebook",
+      "label": "Grave Rave Remix feat. TRNDSTR - Dark Electronic / Remix Visualizer",
+      "url": "https://www.facebook.com/61564485196765/videos/tizwildin-grave-rave-remix-feat-trndstrdark-electronic-remix-visualizerofficial-/2401116510387709/"
+    },
+    {
+      "type": "Facebook",
+      "label": "Fallen - TizWildin UnMastered / NonFinal Single / Official Music Visualizer",
+      "url": "https://www.facebook.com/61564485196765/videos/fallen-tizwildinunmastered-nonfinal-single-official-music-visualizerofficial-mus/1273445651608371/"
+    },
+    {
+      "type": "Facebook",
+      "label": "Rewind VIP - TizWildin / WIP / Futuristic Electronic Visualizer",
+      "url": "https://www.facebook.com/61564485196765/videos/rewind-vip-tizwildin-wip-futuristic-electronic-visualizerofficial-music-visualiz/26538261519198791/"
+    },
+    {
+      "type": "Facebook",
+      "label": "Quirkin - TizWildin Final Mix / UnMastered / Official Electronic Music Visualizer",
+      "url": "https://www.facebook.com/61564485196765/videos/quirkin-tizwildinfinal-mix-unmastered-official-electronic-music-visualizeroffici/1988869838376069/"
+    },
+    {
+      "type": "Facebook",
+      "label": "Melodic Drip - TizWildin WIP Melodic Electronic / Neon Visualizer",
+      "url": "https://www.facebook.com/61564485196765/videos/melodic-drip-tizwildinwip-melodic-electronic-neon-visualizerofficial-music-visua/1292426852277034/"
+    },
+    {
+      "type": "Facebook",
+      "label": "Heat Up The F*ckMachine - TizWildin Official Electronic Music / Voxel Audio Visualizer",
+      "url": "https://www.facebook.com/61564485196765/videos/heat-up-the-fckmachine-tizwildinofficial-electronic-music-voxel-audio-visualizer/1486234933046563/"
+    },
+    {
+      "type": "Facebook",
+      "label": "BreakTime - TizWildin Final Mix / UnMastered / Official Electronic Music Visualizer",
+      "url": "https://www.facebook.com/61564485196765/videos/breaktime-tizwildinfinal-mix-unmastered-official-electronic-music-visualizeroffi/2385900621893271/"
+    },
+    {
+      "type": "Facebook",
+      "label": "Alien Ascension - TizWildin WIP Futuristic Electronic / Sci-Fi Visualizer",
+      "url": "https://www.facebook.com/61564485196765/videos/alien-ascension-tizwildinwip-futuristic-electronic-sci-fi-visualizerofficial-mus/1011608021191966/"
+    },
+    {
+      "type": "Facebook",
+      "label": "Celestial Tide - TizWildin Final Mix / Fantasy Game Soundtrack Visualizer",
+      "url": "https://www.facebook.com/61564485196765/videos/celestial-tide-tizwildinfinal-mix-fantasy-game-soundtrack-visualizerofficial-mus/964305732758880/"
+    },
+    {
+      "type": "Facebook",
+      "label": "Free TizWildin sample packs are live",
+      "url": "https://www.facebook.com/61564485196765/posts/free-tizwildin-sample-packs-are-liveim-building-a-full-open-creator-ecosystem-fo/122097817052482839/"
+    },
+    {
+      "type": "Facebook",
+      "label": "FreeEQ8 is one of my main audio plugin projects",
+      "url": "https://www.facebook.com/61564485196765/posts/freeeq8-is-one-of-my-main-audio-plugin-projectsfreeeq8-is-a-free-open-source-8-b/122097657314482839/"
+    },
+    {
+      "type": "Facebook",
+      "label": "Instrudio is one of my main free instrument plugin projects",
+      "url": "https://www.facebook.com/61564485196765/posts/instrudio-is-one-of-my-main-free-instrument-plugin-projectsinstrudio-is-a-connec/122097663056482839/"
+    },
+    {
+      "type": "Facebook",
+      "label": "Awesome Audio Plugins Dev free audio plugin development resources",
+      "url": "https://www.facebook.com/61564485196765/posts/awesome-audio-plugins-dev-free-audio-plugin-development-resourcesvst3-au-clap-lv/122097788396482839/"
+    },
+    {
+      "type": "Facebook",
+      "label": "TizWildin Entertainment updated his bio",
+      "url": "https://www.facebook.com/61564485196765/posts/122097823226482839/"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://m.soundcloud.com/tizwildin/rewind-vip-unmasterednonfinal?in=tizwildin%2Fsets%2Fsamples-wip"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/0e39269c-f1d0-4149-aa6a-5ab6efaa00cb"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/sets/odyssey-of-a-mother-board?si=87dd62f2bccb4da4adaa966d25c0c0df&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/johnny-x-gooch?in=tizwildin/sets/ascension&si=38e4bdd9c2584181b86d26b6a96701fc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/sets/dubbed_out_of_luck?si=15ba5c940a7a4e528d11cbb35c8fdca0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/needle_in_the_cup_vip?si=74024fd4164f4d67921d0012b3f9cb59&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/lovesick-wip?si=7dadbfb4ffdc46f1a65a97d5d81565d3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/melodic_drip-wip?si=af34746246524d909d844567494f2019&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/sangritty-wip?si=31efdf364b274bc6b4b0be80f101cabe&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/alien_ascension-wip?in=tizwildin/sets/ascension&si=7bafa315c44f4874a989b91c42c82cf6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/grave-rave-remix-feat-trndstr?si=c8faf5c75976412d887dd5bc8b799f2f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/awaken?si=6b96b3056ce7439a9faf088c749745c1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "GitHub",
+      "label": "ARC-Core",
+      "url": "https://github.com/GareBear99/ARC-Core"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / TizWildinEntertainmentHUB](https: /  / github.com / GareBear99 / TizWildinEnt",
+      "url": "https://github.com/GareBear99/TizWildinEntertainmentHUB](https://github.com/GareBear99/TizWildinEntertainmentHUB"
+    },
+    {
+      "type": "GitHub Pages",
+      "label": "TizWildinEntertainmentHUB / ](https: /  / garebear99.github.io / TizWildinEntertainmentHUB",
+      "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/](https://garebear99.github.io/TizWildinEntertainmentHUB/"
+    },
+    {
+      "type": "GitHub Pages",
+      "label": "TizWildin-Release-Vault / ](https: /  / garebear99.github.io / TizWildin-Release-Vault",
+      "url": "https://garebear99.github.io/TizWildin-Release-Vault/](https://garebear99.github.io/TizWildin-Release-Vault/"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99",
+      "url": "https://github.com/GareBear99"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / TizWildin-Release-Vault",
+      "url": "https://github.com/GareBear99/TizWildin-Release-Vault"
+    },
+    {
+      "type": "All Links",
+      "label": "no4km87",
+      "url": "https://ffm.bio/no4km87"
+    },
+    {
+      "type": "GitHub Pages",
+      "label": "TizWildinEntertainmentHUB",
+      "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / TizWildinEntertainmentHUB",
+      "url": "https://github.com/GareBear99/TizWildinEntertainmentHUB"
+    },
+    {
+      "type": "GitHub Pages",
+      "label": "TizWildin-Release-Vault",
+      "url": "https://garebear99.github.io/TizWildin-Release-Vault/"
+    },
+    {
+      "type": "YouTube",
+      "label": "playlist",
+      "url": "https://www.youtube.com/playlist?list=PLaYwqg3nCf6XFgK2IWShcXo9FI556sS8-"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / johnny-x-gooch",
+      "url": "https://soundcloud.com/tizwildin/johnny-x-gooch?in=tizwildin/sets/ascension&si=38e4bdd9c2584181b86d26b6a96701fc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / sets / dubbed_out_of_luck",
+      "url": "https://soundcloud.com/tizwildin/sets/dubbed_out_of_luck?si=15ba5c940a7a4e528d11cbb35c8fdca0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765",
+      "url": "https://www.facebook.com/61564485196765"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / posts / voxel-audio-is-live-as-part-of-my-creator-software-stackvoxel-aud",
+      "url": "https://www.facebook.com/61564485196765/posts/voxel-audio-is-live-as-part-of-my-creator-software-stackvoxel-audio-is-a-local-f/122097650894482839/"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / posts / first-voxel-audio-visualizer-is-up-on-youtubeawaken-awake-tizwild",
+      "url": "https://www.facebook.com/61564485196765/posts/first-voxel-audio-visualizer-is-up-on-youtubeawaken-awake-tizwildincinematic-dee/122097660404482839/"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / videos / genie-tizwildinwip-electronic-single-official-music-visualizerof",
+      "url": "https://www.facebook.com/61564485196765/videos/genie-tizwildinwip-electronic-single-official-music-visualizerofficial-music-vis/1505778734510090/"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / videos / tizwildin-languagestep-wipheavy-dubstep-experimental-bass-visual",
+      "url": "https://www.facebook.com/61564485196765/videos/tizwildin-languagestep-wipheavy-dubstep-experimental-bass-visualizerofficial-mus/2410993202751391/"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / videos / lostsauce-tizwildinfinal-mix-unmastered-official-electronic-visu",
+      "url": "https://www.facebook.com/61564485196765/videos/lostsauce-tizwildinfinal-mix-unmastered-official-electronic-visualizerofficial-m/898678279865205/"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / videos / sangritty-tizwildinwip-house-electronic-single-official-music-vi",
+      "url": "https://www.facebook.com/61564485196765/videos/sangritty-tizwildinwip-house-electronic-single-official-music-visualizerofficial/827269343262636/"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / videos / tizwildin-grave-rave-remix-feat-trndstrdark-electronic-remix-vis",
+      "url": "https://www.facebook.com/61564485196765/videos/tizwildin-grave-rave-remix-feat-trndstrdark-electronic-remix-visualizerofficial-/2401116510387709/"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / videos / fallen-tizwildinunmastered-nonfinal-single-official-music-visual",
+      "url": "https://www.facebook.com/61564485196765/videos/fallen-tizwildinunmastered-nonfinal-single-official-music-visualizerofficial-mus/1273445651608371/"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / videos / rewind-vip-tizwildin-wip-futuristic-electronic-visualizerofficia",
+      "url": "https://www.facebook.com/61564485196765/videos/rewind-vip-tizwildin-wip-futuristic-electronic-visualizerofficial-music-visualiz/26538261519198791/"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / videos / quirkin-tizwildinfinal-mix-unmastered-official-electronic-music-",
+      "url": "https://www.facebook.com/61564485196765/videos/quirkin-tizwildinfinal-mix-unmastered-official-electronic-music-visualizeroffici/1988869838376069/"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / videos / melodic-drip-tizwildinwip-melodic-electronic-neon-visualizeroffi",
+      "url": "https://www.facebook.com/61564485196765/videos/melodic-drip-tizwildinwip-melodic-electronic-neon-visualizerofficial-music-visua/1292426852277034/"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / videos / heat-up-the-fckmachine-tizwildinofficial-electronic-music-voxel-",
+      "url": "https://www.facebook.com/61564485196765/videos/heat-up-the-fckmachine-tizwildinofficial-electronic-music-voxel-audio-visualizer/1486234933046563/"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / videos / breaktime-tizwildinfinal-mix-unmastered-official-electronic-musi",
+      "url": "https://www.facebook.com/61564485196765/videos/breaktime-tizwildinfinal-mix-unmastered-official-electronic-music-visualizeroffi/2385900621893271/"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / videos / alien-ascension-tizwildinwip-futuristic-electronic-sci-fi-visual",
+      "url": "https://www.facebook.com/61564485196765/videos/alien-ascension-tizwildinwip-futuristic-electronic-sci-fi-visualizerofficial-mus/1011608021191966/"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / videos / celestial-tide-tizwildinfinal-mix-fantasy-game-soundtrack-visual",
+      "url": "https://www.facebook.com/61564485196765/videos/celestial-tide-tizwildinfinal-mix-fantasy-game-soundtrack-visualizerofficial-mus/964305732758880/"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / posts / free-tizwildin-sample-packs-are-liveim-building-a-full-open-creat",
+      "url": "https://www.facebook.com/61564485196765/posts/free-tizwildin-sample-packs-are-liveim-building-a-full-open-creator-ecosystem-fo/122097817052482839/"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / posts / freeeq8-is-one-of-my-main-audio-plugin-projectsfreeeq8-is-a-free-",
+      "url": "https://www.facebook.com/61564485196765/posts/freeeq8-is-one-of-my-main-audio-plugin-projectsfreeeq8-is-a-free-open-source-8-b/122097657314482839/"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / posts / instrudio-is-one-of-my-main-free-instrument-plugin-projectsinstru",
+      "url": "https://www.facebook.com/61564485196765/posts/instrudio-is-one-of-my-main-free-instrument-plugin-projectsinstrudio-is-a-connec/122097663056482839/"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / posts / awesome-audio-plugins-dev-free-audio-plugin-development-resources",
+      "url": "https://www.facebook.com/61564485196765/posts/awesome-audio-plugins-dev-free-audio-plugin-development-resourcesvst3-au-clap-lv/122097788396482839/"
+    },
+    {
+      "type": "Facebook",
+      "label": "61564485196765 / posts / 122097823226482839",
+      "url": "https://www.facebook.com/61564485196765/posts/122097823226482839/"
+    },
+    {
+      "type": "GitHub Pages",
+      "label": "TizWildinEntertainmentHUB",
+      "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/#tizwildin-free-sample-packs"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / Instrudio",
+      "url": "https://github.com/GareBear99/Instrudio"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / Free-Dark-Piano-Sound-Kit",
+      "url": "https://github.com/GareBear99/Free-Dark-Piano-Sound-Kit"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / Free-808-Producer-Kit",
+      "url": "https://github.com/GareBear99/Free-808-Producer-Kit"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / Free-Riser-Producer-Kit",
+      "url": "https://github.com/GareBear99/Free-Riser-Producer-Kit"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / Phonk_Producer_Toolkit",
+      "url": "https://github.com/GareBear99/Phonk_Producer_Toolkit"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / Free-Future-Bass-Producer-Kit",
+      "url": "https://github.com/GareBear99/Free-Future-Bass-Producer-Kit"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / FreeEQ8",
+      "url": "https://github.com/GareBear99/FreeEQ8"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / Voxel_Audio",
+      "url": "https://github.com/GareBear99/Voxel_Audio"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / awesome-audio-plugins-dev",
+      "url": "https://github.com/GareBear99/awesome-audio-plugins-dev"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / ARC-Core",
+      "url": "https://github.com/GareBear99/ARC-Core"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin",
+      "url": "https://soundcloud.com/tizwildin"
+    },
+    {
+      "type": "YouTube",
+      "label": "@gfgfvmhj",
+      "url": "https://www.youtube.com/@gfgfvmhj"
+    },
+    {
+      "type": "Facebook",
+      "label": "profile.php",
+      "url": "https://www.facebook.com/profile.php?id=61564485196765"
+    },
+    {
+      "type": "YouTube",
+      "label": "watch",
+      "url": "https://www.youtube.com/watch?v=V85Bl0d98z8"
+    },
+    {
+      "type": "YouTube",
+      "label": "watch",
+      "url": "https://www.youtube.com/watch?v=ROk80q4yhPM"
+    },
+    {
+      "type": "YouTube",
+      "label": "watch",
+      "url": "https://www.youtube.com/watch?v=NmnipfMbWHg"
+    },
+    {
+      "type": "YouTube",
+      "label": "watch",
+      "url": "https://www.youtube.com/watch?v=lDw3Ky63JA0"
+    },
+    {
+      "type": "YouTube",
+      "label": "watch",
+      "url": "https://www.youtube.com/watch?v=Jabm99-yBVE"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / rewind-vip-unmasterednonfinal",
+      "url": "https://m.soundcloud.com/tizwildin/rewind-vip-unmasterednonfinal?in=tizwildin%2Fsets%2Fsamples-wip"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / 0e39269c-f1d0-4149-aa6a-5ab6efaa00cb",
+      "url": "https://soundcloud.com/tizwildin/0e39269c-f1d0-4149-aa6a-5ab6efaa00cb"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / sets / odyssey-of-a-mother-board",
+      "url": "https://soundcloud.com/tizwildin/sets/odyssey-of-a-mother-board?si=87dd62f2bccb4da4adaa966d25c0c0df&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / needle_in_the_cup_vip",
+      "url": "https://soundcloud.com/tizwildin/needle_in_the_cup_vip?si=74024fd4164f4d67921d0012b3f9cb59&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / lovesick-wip",
+      "url": "https://soundcloud.com/tizwildin/lovesick-wip?si=7dadbfb4ffdc46f1a65a97d5d81565d3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "YouTube",
+      "label": "watch",
+      "url": "https://www.youtube.com/watch?v=Q6KBzQrTTi8"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / melodic_drip-wip",
+      "url": "https://soundcloud.com/tizwildin/melodic_drip-wip?si=af34746246524d909d844567494f2019&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "YouTube",
+      "label": "watch",
+      "url": "https://www.youtube.com/watch?v=xymsQLdesM8"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / sangritty-wip",
+      "url": "https://soundcloud.com/tizwildin/sangritty-wip?si=31efdf364b274bc6b4b0be80f101cabe&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "YouTube",
+      "label": "watch",
+      "url": "https://www.youtube.com/watch?v=6VkLc7gd1Lg"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / alien_ascension-wip",
+      "url": "https://soundcloud.com/tizwildin/alien_ascension-wip?in=tizwildin/sets/ascension&si=7bafa315c44f4874a989b91c42c82cf6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "YouTube",
+      "label": "watch",
+      "url": "https://www.youtube.com/watch?v=nOW9KbpYOkk"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / grave-rave-remix-feat-trndstr",
+      "url": "https://soundcloud.com/tizwildin/grave-rave-remix-feat-trndstr?si=c8faf5c75976412d887dd5bc8b799f2f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / awaken",
+      "url": "https://soundcloud.com/tizwildin/awaken?si=6b96b3056ce7439a9faf088c749745c1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"
+    },
+    {
+      "type": "YouTube",
+      "label": "watch",
+      "url": "https://www.youtube.com/watch?v=jggVLa8m3Yc"
+    },
+    {
+      "type": "Sourced Page Link",
+      "label": "schema.org",
+      "url": "https://schema.org"
+    },
+    {
+      "type": "GitHub Pages",
+      "label": "TizWildin-Release-Vault",
+      "url": "https://garebear99.github.io/TizWildin-Release-Vault/#artist"
+    },
+    {
+      "type": "GitHub Pages",
+      "label": "TizWildin-Release-Vault",
+      "url": "https://garebear99.github.io/TizWildin-Release-Vault/#website"
+    },
+    {
+      "type": "GitHub Pages",
+      "label": "TizWildin-Release-Vault",
+      "url": "https://garebear99.github.io/TizWildin-Release-Vault/#release-vault"
+    },
+    {
+      "type": "GitHub Pages",
+      "label": "TizWildin-Release-Vault / assets / banners / odyssey-of-a-mother-board-banner.jpg",
+      "url": "https://garebear99.github.io/TizWildin-Release-Vault/assets/banners/odyssey-of-a-mother-board-banner.jpg"
+    },
+    {
+      "type": "GitHub Pages",
+      "label": "TizWildin-Release-Vault / assets / banners / johnny-gooch-banner.jpg",
+      "url": "https://garebear99.github.io/TizWildin-Release-Vault/assets/banners/johnny-gooch-banner.jpg"
+    },
+    {
+      "type": "GitHub Pages",
+      "label": "TizWildin-Release-Vault / assets / banners / lovesick-wip-banner.jpg",
+      "url": "https://garebear99.github.io/TizWildin-Release-Vault/assets/banners/lovesick-wip-banner.jpg"
+    },
+    {
+      "type": "GitHub Pages",
+      "label": "TizWildin-Release-Vault / assets / banners / melodic-drip-wip-single-banner.jpg",
+      "url": "https://garebear99.github.io/TizWildin-Release-Vault/assets/banners/melodic-drip-wip-single-banner.jpg"
+    },
+    {
+      "type": "GitHub Pages",
+      "label": "TizWildin-Release-Vault / assets / banners / sangritty-wip-single-banner.jpg",
+      "url": "https://garebear99.github.io/TizWildin-Release-Vault/assets/banners/sangritty-wip-single-banner.jpg"
+    },
+    {
+      "type": "YouTube",
+      "label": "watch",
+      "url": "https://www.youtube.com/watch?v=FiF8eIQlLQo"
+    },
+    {
+      "type": "YouTube",
+      "label": "watch",
+      "url": "https://www.youtube.com/watch?v=d6MUCvRhvEE"
+    },
+    {
+      "type": "YouTube",
+      "label": "watch",
+      "url": "https://www.youtube.com/watch?v=rLQOf_aoHeU"
+    },
+    {
+      "type": "YouTube",
+      "label": "watch",
+      "url": "https://www.youtube.com/watch?v=hD-aGXcUWxM"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / sets / samples-wip",
+      "url": "https://m.soundcloud.com/tizwildin/sets/samples-wip"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / needle_in_the_cup",
+      "url": "https://soundcloud.com/tizwildin/needle_in_the_cup"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / XyloCore",
+      "url": "https://github.com/GareBear99/XyloCore"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / Therum_JUCE-Plugin",
+      "url": "https://github.com/GareBear99/Therum_JUCE-Plugin"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / BassMaid",
+      "url": "https://github.com/GareBear99/BassMaid"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / SpaceMaid",
+      "url": "https://github.com/GareBear99/SpaceMaid"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / GlueMaid",
+      "url": "https://github.com/GareBear99/GlueMaid"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / MixMaid",
+      "url": "https://github.com/GareBear99/MixMaid"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / MultiMaid",
+      "url": "https://github.com/GareBear99/MultiMaid"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / MeterMaid",
+      "url": "https://github.com/GareBear99/MeterMaid"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / ChainMaid",
+      "url": "https://github.com/GareBear99/ChainMaid"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / PaintMask_Free-JUCE-Plugin",
+      "url": "https://github.com/GareBear99/PaintMask_Free-JUCE-Plugin"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / WURP_Toxic-Motion-Engine_JUCE",
+      "url": "https://github.com/GareBear99/WURP_Toxic-Motion-Engine_JUCE"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / AETHER_Choir-Atmosphere-Designer",
+      "url": "https://github.com/GareBear99/AETHER_Choir-Atmosphere-Designer"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / WhisperGate_Free-JUCE-Plugin",
+      "url": "https://github.com/GareBear99/WhisperGate_Free-JUCE-Plugin"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / RiftWaveSuite_RiftSynth_WaveForm_Lite",
+      "url": "https://github.com/GareBear99/RiftWaveSuite_RiftSynth_WaveForm_Lite"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / FreeSampler_v0.3",
+      "url": "https://github.com/GareBear99/FreeSampler_v0.3"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / VF-PlexLab",
+      "url": "https://github.com/GareBear99/VF-PlexLab"
+    },
+    {
+      "type": "GitHub",
+      "label": "GareBear99 / PAP-Forge-Audio",
+      "url": "https://github.com/GareBear99/PAP-Forge-Audio"
+    },
+    {
+      "type": "YouTube",
+      "label": "watch",
+      "url": "https://www.youtube.com/watch?v=mjYEA4Tdri4"
+    },
+    {
+      "type": "YouTube",
+      "label": "embed / videoseries",
+      "url": "https://www.youtube.com/embed/videoseries?list=PLaYwqg3nCf6XFgK2IWShcXo9FI556sS8-"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / sets / odyssey-of-a-mother-board",
+      "url": "https://soundcloud.com/tizwildin/sets/odyssey-of-a-mother-board?si=87dd62f2bccb4da4adaa966d25c0c0df&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / johnny-x-gooch",
+      "url": "https://soundcloud.com/tizwildin/johnny-x-gooch?in=tizwildin/sets/ascension&amp;si=38e4bdd9c2584181b86d26b6a96701fc&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / sets / dubbed_out_of_luck",
+      "url": "https://soundcloud.com/tizwildin/sets/dubbed_out_of_luck?si=15ba5c940a7a4e528d11cbb35c8fdca0&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / needle_in_the_cup_vip",
+      "url": "https://soundcloud.com/tizwildin/needle_in_the_cup_vip?si=74024fd4164f4d67921d0012b3f9cb59&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / lovesick-wip",
+      "url": "https://soundcloud.com/tizwildin/lovesick-wip?si=7dadbfb4ffdc46f1a65a97d5d81565d3&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / melodic_drip-wip",
+      "url": "https://soundcloud.com/tizwildin/melodic_drip-wip?si=af34746246524d909d844567494f2019&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / sangritty-wip",
+      "url": "https://soundcloud.com/tizwildin/sangritty-wip?si=31efdf364b274bc6b4b0be80f101cabe&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / alien_ascension-wip",
+      "url": "https://soundcloud.com/tizwildin/alien_ascension-wip?in=tizwildin/sets/ascension&amp;si=7bafa315c44f4874a989b91c42c82cf6&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / grave-rave-remix-feat-trndstr",
+      "url": "https://soundcloud.com/tizwildin/grave-rave-remix-feat-trndstr?si=c8faf5c75976412d887dd5bc8b799f2f&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "tizwildin / awaken",
+      "url": "https://soundcloud.com/tizwildin/awaken?si=6b96b3056ce7439a9faf088c749745c1&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "GitHub Pages",
+      "label": "TizWildin-Release-Vault / assets / banners / tizwildin-entertainment-waveform-banner.jpg",
+      "url": "https://garebear99.github.io/TizWildin-Release-Vault/assets/banners/tizwildin-entertainment-waveform-banner.jpg"
+    },
+    {
+      "type": "Sourced Page Link",
+      "label": "ImageObject",
+      "url": "https://schema.org/ImageObject"
+    },
+    {
+      "type": "GitHub Pages",
+      "label": "TizWildin-Release-Vault / sitemap.xml",
+      "url": "https://garebear99.github.io/TizWildin-Release-Vault/sitemap.xml"
+    },
+    {
+      "type": "All Links",
+      "label": "All Links / FFM Bio",
+      "url": "https://ffm.bio/no4km87"
+    },
+    {
+      "type": "YouTube",
+      "label": "▶️ Visualizer Playlist",
+      "url": "https://www.youtube.com/playlist?list=PLaYwqg3nCf6XFgK2IWShcXo9FI556sS8-"
+    },
+    {
+      "type": "GitHub Pages",
+      "label": "🌐 Live Hub Dashboard",
+      "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/"
+    },
+    {
+      "type": "GitHub",
+      "label": "🎛️ Hub Repo",
+      "url": "https://github.com/GareBear99/TizWildinEntertainmentHUB"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin"
+    },
+    {
+      "type": "GitHub",
+      "label": "GitHub",
+      "url": "https://github.com/GareBear99"
+    },
+    {
+      "type": "GitHub",
+      "label": "Awesome Audio Dev List",
+      "url": "https://github.com/GareBear99/awesome-audio-plugins-dev"
+    },
+    {
+      "type": "YouTube",
+      "label": "Awaken/Awake - TizWildin | Cinematic Deep House &amp; Melodic Electronic Music",
+      "url": "https://www.youtube.com/watch?v=jggVLa8m3Yc"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/sets/odyssey-of-a-mother-board?si=87dd62f2bccb4da4adaa966d25c0c0df&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/johnny-x-gooch?in=tizwildin/sets/ascension&amp;si=38e4bdd9c2584181b86d26b6a96701fc&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/sets/dubbed_out_of_luck?si=15ba5c940a7a4e528d11cbb35c8fdca0&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/needle_in_the_cup_vip?si=74024fd4164f4d67921d0012b3f9cb59&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/lovesick-wip?si=7dadbfb4ffdc46f1a65a97d5d81565d3&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/melodic_drip-wip?si=af34746246524d909d844567494f2019&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/sangritty-wip?si=31efdf364b274bc6b4b0be80f101cabe&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/alien_ascension-wip?in=tizwildin/sets/ascension&amp;si=7bafa315c44f4874a989b91c42c82cf6&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/grave-rave-remix-feat-trndstr?si=c8faf5c75976412d887dd5bc8b799f2f&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "SoundCloud",
+      "label": "SoundCloud",
+      "url": "https://soundcloud.com/tizwildin/awaken?si=6b96b3056ce7439a9faf088c749745c1&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing"
+    },
+    {
+      "type": "All Links",
+      "label": "TizWildin FFM Bio",
+      "url": "https://ffm.bio/no4km87"
+    }
+  ]
+}

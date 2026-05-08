@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "pipeline_grade": "A",
+  "total_seconds": 9.839,
+  "health_grade": "A+",
+  "metrics": {
+    "tracks": 104,
+    "track_pages": 104,
+    "direct_links": 492,
+    "ecosystem_cross_links": 26312,
+    "notification_events": 127,
+    "sourced_page_links": 216,
+    "source_files_audited": 163,
+    "source_lines_audited": 41366
+  },
+  "steps": [
+    {
+      "step": "build_release_crosslink_index",
+      "seconds": 5.024,
+      "returncode": 0,
+      "stdout": "Built release vault cross-link index: 104 tracks, 108 sitemap URLs, 492 direct links, 26312 ecosystem cross-links in 1.292s",
+      "stderr": ""
+    },
+    {
+      "step": "validate_release_crosslinks",
+      "seconds": 4.814,
+      "returncode": 0,
+      "stdout": "VALIDATION OK: 104 tracks, 492 platform/discovery links, 26312 ecosystem cross-links, 216 sourced page links, health A+",
+      "stderr": ""
+    }
+  ]
+}

@@ -1,0 +1,835 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-05-08T21:58:01.066755+00:00",
+  "grade": "A+",
+  "score": 100,
+  "warnings": [],
+  "metrics": {
+    "tracks": 104,
+    "track_pages": 104,
+    "direct_links": 492,
+    "ecosystem_cross_links": 26312,
+    "notification_events": 127,
+    "sourced_page_links": 216,
+    "source_files_audited": 163,
+    "source_lines_audited": 41366
+  },
+  "source_files": [
+    {
+      "path": ".github/workflows/release-vault-index.yml",
+      "size": 572,
+      "lines": 22
+    },
+    {
+      "path": "LICENSE",
+      "size": 90,
+      "lines": 2
+    },
+    {
+      "path": "NOTICE.md",
+      "size": 66,
+      "lines": 4
+    },
+    {
+      "path": "README.md",
+      "size": 36144,
+      "lines": 373
+    },
+    {
+      "path": "assets/banners/alien-ascension-wip-banner.jpg",
+      "size": 363684,
+      "lines": 0
+    },
+    {
+      "path": "assets/banners/awaken-awake-banner.jpg",
+      "size": 294888,
+      "lines": 0
+    },
+    {
+      "path": "assets/banners/grave-rave-remix-banner.jpg",
+      "size": 422704,
+      "lines": 0
+    },
+    {
+      "path": "assets/banners/johnny-gooch-banner.jpg",
+      "size": 286973,
+      "lines": 0
+    },
+    {
+      "path": "assets/banners/lovesick-wip-banner.jpg",
+      "size": 433465,
+      "lines": 0
+    },
+    {
+      "path": "assets/banners/melodic-drip-wip-single-banner.jpg",
+      "size": 339540,
+      "lines": 0
+    },
+    {
+      "path": "assets/banners/odyssey-of-a-mother-board-banner.jpg",
+      "size": 506980,
+      "lines": 0
+    },
+    {
+      "path": "assets/banners/sangritty-wip-banner-red.jpg",
+      "size": 346521,
+      "lines": 0
+    },
+    {
+      "path": "assets/banners/sangritty-wip-single-banner.jpg",
+      "size": 347792,
+      "lines": 0
+    },
+    {
+      "path": "assets/banners/tizwildin-entertainment-banner-alt.jpg",
+      "size": 486285,
+      "lines": 0
+    },
+    {
+      "path": "assets/banners/tizwildin-entertainment-waveform-banner.jpg",
+      "size": 494170,
+      "lines": 0
+    },
+    {
+      "path": "assets/style.css",
+      "size": 3517,
+      "lines": 28
+    },
+    {
+      "path": "docs/CUSTOM_DOMAIN.md",
+      "size": 223,
+      "lines": 12
+    },
+    {
+      "path": "docs/FREEEQ8_FLAGSHIP_POSITIONING.md",
+      "size": 3224,
+      "lines": 66
+    },
+    {
+      "path": "docs/FREEEQ8_VALUE_COMPARISON.md",
+      "size": 1091,
+      "lines": 19
+    },
+    {
+      "path": "docs/HUB_ROUTING.md",
+      "size": 756,
+      "lines": 29
+    },
+    {
+      "path": "docs/MEDIA_LINK_INDEX_NOTES.md",
+      "size": 414,
+      "lines": 12
+    },
+    {
+      "path": "docs/PLATFORM_COVERAGE_AUDIT.md",
+      "size": 1476,
+      "lines": 47
+    },
+    {
+      "path": "docs/RELEASE_CROSSLINK_READINESS.md",
+      "size": 1344,
+      "lines": 43
+    },
+    {
+      "path": "docs/RELEASE_LINK_MATRIX.md",
+      "size": 268,
+      "lines": 14
+    },
+    {
+      "path": "docs/RELEASE_VAULT_BENCHMARK.json",
+      "size": 908,
+      "lines": 33
+    },
+    {
+      "path": "docs/SEO_CHECKLIST.md",
+      "size": 3424,
+      "lines": 122
+    },
+    {
+      "path": "docs/SOURCED_LINK_COMPLETION.md",
+      "size": 1205,
+      "lines": 46
+    },
+    {
+      "path": "docs/TRACK_CROSSLINK_OPERATIONS.md",
+      "size": 2115,
+      "lines": 58
+    },
+    {
+      "path": "docs/banner-assets.json",
+      "size": 2224,
+      "lines": 90
+    },
+    {
+      "path": "docs/distributed-releases.json",
+      "size": 845,
+      "lines": 16
+    },
+    {
+      "path": "docs/facebook-post-index.json",
+      "size": 6093,
+      "lines": 128
+    },
+    {
+      "path": "docs/free-sample-packs.json",
+      "size": 4396,
+      "lines": 90
+    },
+    {
+      "path": "docs/github-related-repos.json",
+      "size": 739,
+      "lines": 27
+    },
+    {
+      "path": "docs/official-links.json",
+      "size": 1285,
+      "lines": 20
+    },
+    {
+      "path": "docs/release-crosslink-index.json",
+      "size": 5989837,
+      "lines": 0
+    },
+    {
+      "path": "docs/release-health.json",
+      "size": 17633,
+      "lines": 831
+    },
+    {
+      "path": "docs/release-link-matrix.json",
+      "size": 14440,
+      "lines": 556
+    },
+    {
+      "path": "docs/release-search-index.json",
+      "size": 9228107,
+      "lines": 0
+    },
+    {
+      "path": "docs/sample-pack-repo-links.json",
+      "size": 4753,
+      "lines": 93
+    },
+    {
+      "path": "docs/schema-org.json",
+      "size": 64666,
+      "lines": 1837
+    },
+    {
+      "path": "docs/soundcloud-monetized-releases.json",
+      "size": 19053,
+      "lines": 682
+    },
+    {
+      "path": "docs/soundcloud-notification-export-2026-05-08.txt",
+      "size": 11421,
+      "lines": 635
+    },
+    {
+      "path": "docs/soundcloud-notifications.txt",
+      "size": 11421,
+      "lines": 635
+    },
+    {
+      "path": "docs/soundcloud-public-sources.json",
+      "size": 811,
+      "lines": 20
+    },
+    {
+      "path": "docs/sourced-page-links.json",
+      "size": 43047,
+      "lines": 1088
+    },
+    {
+      "path": "docs/youtube-individual-videos.json",
+      "size": 3070,
+      "lines": 92
+    },
+    {
+      "path": "docs/youtube-playlists.json",
+      "size": 526,
+      "lines": 12
+    },
+    {
+      "path": "humans.txt",
+      "size": 452,
+      "lines": 13
+    },
+    {
+      "path": "index-health.html",
+      "size": 2366,
+      "lines": 37
+    },
+    {
+      "path": "index.html",
+      "size": 79115,
+      "lines": 405
+    },
+    {
+      "path": "llms.txt",
+      "size": 6251,
+      "lines": 119
+    },
+    {
+      "path": "release-index.html",
+      "size": 41391,
+      "lines": 37
+    },
+    {
+      "path": "release-search.html",
+      "size": 2970,
+      "lines": 40
+    },
+    {
+      "path": "robots.txt",
+      "size": 97,
+      "lines": 4
+    },
+    {
+      "path": "scripts/__pycache__/build_release_crosslink_index.cpython-313.pyc",
+      "size": 47725,
+      "lines": 353
+    },
+    {
+      "path": "scripts/benchmark_release_vault.py",
+      "size": 1592,
+      "lines": 28
+    },
+    {
+      "path": "scripts/build_release_crosslink_index.py",
+      "size": 33704,
+      "lines": 677
+    },
+    {
+      "path": "scripts/validate_release_crosslinks.py",
+      "size": 3280,
+      "lines": 67
+    },
+    {
+      "path": "sitemap.xml",
+      "size": 11569,
+      "lines": 112
+    },
+    {
+      "path": "tracks/11-aurora-demo-mix/index.html",
+      "size": 47835,
+      "lines": 304
+    },
+    {
+      "path": "tracks/afterglow-124bpm-amin-demo-mix/index.html",
+      "size": 48017,
+      "lines": 304
+    },
+    {
+      "path": "tracks/alien-ascension-wip/index.html",
+      "size": 49932,
+      "lines": 310
+    },
+    {
+      "path": "tracks/alien-future/index.html",
+      "size": 47988,
+      "lines": 305
+    },
+    {
+      "path": "tracks/asymmetry-fracture-python/index.html",
+      "size": 47950,
+      "lines": 304
+    },
+    {
+      "path": "tracks/awaken-awake/index.html",
+      "size": 49436,
+      "lines": 310
+    },
+    {
+      "path": "tracks/beatlejuice-wip/index.html",
+      "size": 47817,
+      "lines": 304
+    },
+    {
+      "path": "tracks/beautiful-violin-synth/index.html",
+      "size": 47981,
+      "lines": 304
+    },
+    {
+      "path": "tracks/big-room-wraith-s-revenge/index.html",
+      "size": 48059,
+      "lines": 304
+    },
+    {
+      "path": "tracks/breaktime-unmastered-nonfinal/index.html",
+      "size": 49359,
+      "lines": 308
+    },
+    {
+      "path": "tracks/celestial-tide/index.html",
+      "size": 48402,
+      "lines": 306
+    },
+    {
+      "path": "tracks/char-wip/index.html",
+      "size": 47632,
+      "lines": 304
+    },
+    {
+      "path": "tracks/clacker-unmastered-nonfinal/index.html",
+      "size": 48041,
+      "lines": 304
+    },
+    {
+      "path": "tracks/clockwork-unmastered-nonfinal/index.html",
+      "size": 48161,
+      "lines": 304
+    },
+    {
+      "path": "tracks/deephouse-wip-sample/index.html",
+      "size": 47917,
+      "lines": 304
+    },
+    {
+      "path": "tracks/dementia/index.html",
+      "size": 47606,
+      "lines": 304
+    },
+    {
+      "path": "tracks/dirtypop-wip/index.html",
+      "size": 47760,
+      "lines": 304
+    },
+    {
+      "path": "tracks/doit-wip-single/index.html",
+      "size": 47770,
+      "lines": 304
+    },
+    {
+      "path": "tracks/down-wip-sample/index.html",
+      "size": 47770,
+      "lines": 304
+    },
+    {
+      "path": "tracks/dragon-arena-instrumental-wip/index.html",
+      "size": 48042,
+      "lines": 304
+    },
+    {
+      "path": "tracks/dubbed-out-of-luck/index.html",
+      "size": 49500,
+      "lines": 307
+    },
+    {
+      "path": "tracks/duhdahdah-unmastered-nonfinal/index.html",
+      "size": 48079,
+      "lines": 304
+    },
+    {
+      "path": "tracks/echoes-wip-sample-loop/index.html",
+      "size": 48373,
+      "lines": 306
+    },
+    {
+      "path": "tracks/edmsoloriser-mastered-sample/index.html",
+      "size": 48280,
+      "lines": 304
+    },
+    {
+      "path": "tracks/escalator-wip/index.html",
+      "size": 47727,
+      "lines": 304
+    },
+    {
+      "path": "tracks/eternal-strum-v3/index.html",
+      "size": 48017,
+      "lines": 304
+    },
+    {
+      "path": "tracks/eternalstrum-v1/index.html",
+      "size": 47781,
+      "lines": 304
+    },
+    {
+      "path": "tracks/eternalstrum-v2/index.html",
+      "size": 47771,
+      "lines": 304
+    },
+    {
+      "path": "tracks/fallen-unmastered-nonfinal/index.html",
+      "size": 49260,
+      "lines": 308
+    },
+    {
+      "path": "tracks/floppytoppy-unmastered-nonfinal/index.html",
+      "size": 48065,
+      "lines": 304
+    },
+    {
+      "path": "tracks/followyou-wip-sample/index.html",
+      "size": 47917,
+      "lines": 304
+    },
+    {
+      "path": "tracks/fractal-rift/index.html",
+      "size": 47680,
+      "lines": 304
+    },
+    {
+      "path": "tracks/freshofbreathair-finalmix-unmastered/index.html",
+      "size": 48521,
+      "lines": 304
+    },
+    {
+      "path": "tracks/funeral-march-dark-piano-synth-pack-link-in-bio/index.html",
+      "size": 48500,
+      "lines": 304
+    },
+    {
+      "path": "tracks/funkibeat2-wip-sample/index.html",
+      "size": 47884,
+      "lines": 304
+    },
+    {
+      "path": "tracks/funkibeat3-wip/index.html",
+      "size": 47798,
+      "lines": 304
+    },
+    {
+      "path": "tracks/funkiguitarbeat-wip/index.html",
+      "size": 47841,
+      "lines": 304
+    },
+    {
+      "path": "tracks/future-bass-dub-switch-v1-wip/index.html",
+      "size": 48030,
+      "lines": 304
+    },
+    {
+      "path": "tracks/future-bass-dub-switch-v2/index.html",
+      "size": 47938,
+      "lines": 304
+    },
+    {
+      "path": "tracks/genie-mastered-nonfinal/index.html",
+      "size": 49353,
+      "lines": 308
+    },
+    {
+      "path": "tracks/getoutmeswamp-unmastered-nonfinal/index.html",
+      "size": 48130,
+      "lines": 304
+    },
+    {
+      "path": "tracks/gmunnymind-mastered/index.html",
+      "size": 48104,
+      "lines": 304
+    },
+    {
+      "path": "tracks/golden-night-drive-wip/index.html",
+      "size": 47952,
+      "lines": 304
+    },
+    {
+      "path": "tracks/grave-rave-remix-feat-trndstr/index.html",
+      "size": 49753,
+      "lines": 308
+    },
+    {
+      "path": "tracks/graverave-unmastered-nonfinal/index.html",
+      "size": 48486,
+      "lines": 305
+    },
+    {
+      "path": "tracks/heat-up-the-f-ckmachine/index.html",
+      "size": 47750,
+      "lines": 304
+    },
+    {
+      "path": "tracks/heat-up-the-fuckmachine/index.html",
+      "size": 47985,
+      "lines": 304
+    },
+    {
+      "path": "tracks/johnny-x-gooch/index.html",
+      "size": 49571,
+      "lines": 307
+    },
+    {
+      "path": "tracks/kauffee/index.html",
+      "size": 47639,
+      "lines": 304
+    },
+    {
+      "path": "tracks/kazooie-unmastered-nonfinal-single/index.html",
+      "size": 48179,
+      "lines": 304
+    },
+    {
+      "path": "tracks/languagestep-wip/index.html",
+      "size": 48627,
+      "lines": 306
+    },
+    {
+      "path": "tracks/levelup-wip/index.html",
+      "size": 47770,
+      "lines": 304
+    },
+    {
+      "path": "tracks/loaded-wip/index.html",
+      "size": 47722,
+      "lines": 304
+    },
+    {
+      "path": "tracks/lonesome/index.html",
+      "size": 47844,
+      "lines": 305
+    },
+    {
+      "path": "tracks/lost-wip-sample/index.html",
+      "size": 47770,
+      "lines": 304
+    },
+    {
+      "path": "tracks/lostsauce/index.html",
+      "size": 48314,
+      "lines": 306
+    },
+    {
+      "path": "tracks/lostsauceunmastered-original/index.html",
+      "size": 48017,
+      "lines": 304
+    },
+    {
+      "path": "tracks/lovesick-vip-edit/index.html",
+      "size": 49164,
+      "lines": 308
+    },
+    {
+      "path": "tracks/meadowveil-finalmix/index.html",
+      "size": 48049,
+      "lines": 304
+    },
+    {
+      "path": "tracks/melodic-drip/index.html",
+      "size": 49328,
+      "lines": 310
+    },
+    {
+      "path": "tracks/memoria-unmastered-nonfinal/index.html",
+      "size": 48041,
+      "lines": 304
+    },
+    {
+      "path": "tracks/mrhawk-wip/index.html",
+      "size": 47722,
+      "lines": 304
+    },
+    {
+      "path": "tracks/munk-wip/index.html",
+      "size": 47769,
+      "lines": 304
+    },
+    {
+      "path": "tracks/needle-in-the-cup-vip/index.html",
+      "size": 48851,
+      "lines": 306
+    },
+    {
+      "path": "tracks/needle-in-the-cup-x-all-messed-up-tizwildin-the-stickman-project-remix/index.html",
+      "size": 48889,
+      "lines": 304
+    },
+    {
+      "path": "tracks/neon-sunburst-full-mix-python/index.html",
+      "size": 48020,
+      "lines": 304
+    },
+    {
+      "path": "tracks/nexttoyou-unmastered-nonfinal/index.html",
+      "size": 48079,
+      "lines": 304
+    },
+    {
+      "path": "tracks/nosleep/index.html",
+      "size": 47802,
+      "lines": 305
+    },
+    {
+      "path": "tracks/numb-wip/index.html",
+      "size": 47684,
+      "lines": 304
+    },
+    {
+      "path": "tracks/oddballs-wip-sample/index.html",
+      "size": 47898,
+      "lines": 304
+    },
+    {
+      "path": "tracks/oddballz-wip-sample/index.html",
+      "size": 47898,
+      "lines": 304
+    },
+    {
+      "path": "tracks/odyssey-of-a-mother-board/index.html",
+      "size": 48795,
+      "lines": 306
+    },
+    {
+      "path": "tracks/oh-unmastered-nonfinal/index.html",
+      "size": 47894,
+      "lines": 304
+    },
+    {
+      "path": "tracks/polyclone-thingshappening/index.html",
+      "size": 47998,
+      "lines": 304
+    },
+    {
+      "path": "tracks/quake-unmastered-nonfinal-single/index.html",
+      "size": 48141,
+      "lines": 304
+    },
+    {
+      "path": "tracks/quantum-conundrum/index.html",
+      "size": 47775,
+      "lines": 304
+    },
+    {
+      "path": "tracks/quirkin-unmastered-nonfinal/index.html",
+      "size": 49215,
+      "lines": 308
+    },
+    {
+      "path": "tracks/rewind-wip/index.html",
+      "size": 49510,
+      "lines": 310
+    },
+    {
+      "path": "tracks/rize-mastered-nonfinal/index.html",
+      "size": 48112,
+      "lines": 304
+    },
+    {
+      "path": "tracks/roguefrequency-unmastered-nonfinal/index.html",
+      "size": 48128,
+      "lines": 304
+    },
+    {
+      "path": "tracks/sangritty-wip/index.html",
+      "size": 50047,
+      "lines": 310
+    },
+    {
+      "path": "tracks/slimer-unmastered-nonfinal-single/index.html",
+      "size": 48160,
+      "lines": 304
+    },
+    {
+      "path": "tracks/sonic-lightning/index.html",
+      "size": 47740,
+      "lines": 304
+    },
+    {
+      "path": "tracks/sparks-in-the-circuitry-vol-1/index.html",
+      "size": 48221,
+      "lines": 304
+    },
+    {
+      "path": "tracks/stickz-wip-sample-loop/index.html",
+      "size": 47962,
+      "lines": 304
+    },
+    {
+      "path": "tracks/stringz-wip/index.html",
+      "size": 47689,
+      "lines": 304
+    },
+    {
+      "path": "tracks/tangerine-wip-sample-loop/index.html",
+      "size": 48019,
+      "lines": 304
+    },
+    {
+      "path": "tracks/thingshappening/index.html",
+      "size": 47799,
+      "lines": 304
+    },
+    {
+      "path": "tracks/timothy-wip/index.html",
+      "size": 47741,
+      "lines": 304
+    },
+    {
+      "path": "tracks/tizwildin-aurora-theft-96-bpm-e-lydian/index.html",
+      "size": 48383,
+      "lines": 304
+    },
+    {
+      "path": "tracks/tokyodhroul-wip/index.html",
+      "size": 47765,
+      "lines": 304
+    },
+    {
+      "path": "tracks/track/index.html",
+      "size": 48516,
+      "lines": 304
+    },
+    {
+      "path": "tracks/trandown-glitch-vinyl-wip/index.html",
+      "size": 47966,
+      "lines": 304
+    },
+    {
+      "path": "tracks/trandown-vip/index.html",
+      "size": 47743,
+      "lines": 304
+    },
+    {
+      "path": "tracks/trandown-xl-wip/index.html",
+      "size": 47795,
+      "lines": 304
+    },
+    {
+      "path": "tracks/tribulations-unmastered-nonfinal-single/index.html",
+      "size": 48222,
+      "lines": 304
+    },
+    {
+      "path": "tracks/unstoppable-velocity/index.html",
+      "size": 47832,
+      "lines": 304
+    },
+    {
+      "path": "tracks/womp-wip-sample/index.html",
+      "size": 47770,
+      "lines": 304
+    },
+    {
+      "path": "tracks/wraith-eternal-avenge/index.html",
+      "size": 47925,
+      "lines": 304
+    },
+    {
+      "path": "tracks/wraitheternally-ep1/index.html",
+      "size": 47868,
+      "lines": 304
+    },
+    {
+      "path": "tracks/wraithrevenge/index.html",
+      "size": 47753,
+      "lines": 304
+    },
+    {
+      "path": "tracks/wrong-turn-python-music/index.html",
+      "size": 47961,
+      "lines": 304
+    },
+    {
+      "path": "tracks/zip-wip/index.html",
+      "size": 47613,
+      "lines": 304
+    },
+    {
+      "path": "tracks/zoop-mastered-nonfinal-wip/index.html",
+      "size": 48333,
+      "lines": 304
+    }
+  ],
+  "elapsed_seconds": 1.29
+}
